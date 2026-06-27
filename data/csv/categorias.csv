@@ -1,0 +1,11 @@
+id_categoria,division,categoria
+CAT-001,Alimentos,Lácteos
+CAT-002,Alimentos,Snacks
+CAT-003,Alimentos,Bebidas
+CAT-004,Cuidado Personal,Higiene
+CAT-005,Cuidado Personal,Cosméticos
+CAT-006,Limpieza,Limpieza del Hogar
+CAT-007,Limpieza,Lavandería
+CAT-008,Bebidas,Gaseosas
+CAT-009,Bebidas,Jugos
+CAT-010,Alimentos,Conservas

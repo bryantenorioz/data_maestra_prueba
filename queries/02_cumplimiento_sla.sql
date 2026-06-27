@@ -1,0 +1,19 @@
+-- Pregunta 2: Cumplimiento de SLA por área solicitante
+-- Cumplimiento del SLA para las solicitudes cerradas (Aprobadas o Rechazadas)
+-- Herramienta utilizada: BigQuery
+
+WITH DETALLE AS(
+SELECT B.AREA AREA_SOLICITANTE,
+       A.TIPO_MATERIAL,
+       COUNT(DISTINCT A.ID_SOLICITUD) TOTAL_SOL_CERRADAS,
+       COUNT(DISTINCT IF(A.CUMPLE_SLA = 'Sí', A.ID_SOLICITUD, NULL)) CANT_CUMPLE_SLA,
+       COUNT(DISTINCT IF(A.CUMPLE_SLA = 'No', A.ID_SOLICITUD, NULL)) CANT_NO_CUMPLE_SLA,
+       ROUND(AVG(A.DIAS_CICLO), 2) PROM_DIAS_CICLO
+  FROM `first-project-500415.data_maestra_prueba.solicitudes_material` A
+  LEFT JOIN `first-project-500415.data_maestra_prueba.usuarios` B
+    ON A.ID_SOLICITANTE = B.ID_USUARIO
+ WHERE A.ESTADO IN ('Aprobado', 'Rechazado')
+ GROUP BY B.AREA, A.TIPO_MATERIAL
+)
+SELECT AREA_SOLICITANTE, TIPO_MATERIAL, CANT_CUMPLE_SLA, CANT_NO_CUMPLE_SLA, ROUND(SAFE_DIVIDE(CANT_CUMPLE_SLA, TOTAL_SOL_CERRADAS)*100, 1) PCT_CUMPLIMIENTO, PROM_DIAS_CICLO
+  FROM DETALLE;

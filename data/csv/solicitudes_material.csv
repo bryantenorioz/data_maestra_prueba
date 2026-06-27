@@ -1,0 +1,301 @@
+id_solicitud,fecha_solicitud,id_categoria,id_solicitante,id_aprobador,tipo_material,canal_destino,prioridad,estado,fecha_validacion_datos,fecha_revision_calidad,fecha_aprobacion_regulatoria,fecha_cierre,dias_ciclo,sla_dias,cumple_sla,costo_estimado_KUSD
+SOL-0001,12-12-24,CAT-002,USR-001,APR-003,Extensión de Línea,Moderno,Alta,Aprobado,15-12-24,17-12-24,18-12-24,19-12-24,7,5,No,1.25
+SOL-0002,17-08-24,CAT-004,USR-009,APR-001,Relanzamiento,Tradicional,Alta,En Proceso,20-08-24,24-08-24,25-08-24,,151,7,No,6.57
+SOL-0003,22-02-24,CAT-003,USR-007,APR-003,Extensión de Línea,E-commerce,Alta,Aprobado,23-02-24,28-02-24,,02-03-24,9,6,No,5.33
+SOL-0004,22-10-24,CAT-001,USR-008,APR-001,Reformulación,E-commerce,Alta,Rechazado,23-10-24,25-10-24,,27-10-24,5,5,Sí,6.68
+SOL-0005,24-03-24,CAT-002,USR-004,APR-001,Relanzamiento,E-commerce,Media,Rechazado,26-03-24,30-03-24,02-04-24,03-04-24,10,5,No,5.37
+SOL-0006,23-11-24,CAT-003,USR-009,APR-002,Relanzamiento,E-commerce,Media,Aprobado,26-11-24,29-11-24,30-11-24,02-12-24,9,6,No,7.07
+SOL-0007,01-12-24,CAT-006,USR-007,APR-003,Reformulación,Tradicional,Alta,Aprobado,03-12-24,08-12-24,14-12-24,18-12-24,17,5,No,1.64
+SOL-0008,04-07-24,CAT-003,USR-004,APR-003,Relanzamiento,Exportación,Media,En Proceso,05-07-24,08-07-24,09-07-24,,195,6,No,6.55
+SOL-0009,14-07-24,CAT-002,USR-003,APR-002,Nuevo SKU,Exportación,Media,En Proceso,17-07-24,22-07-24,27-07-24,,185,5,No,7.39
+SOL-0010,10-08-24,CAT-001,USR-002,APR-003,Nuevo SKU,E-commerce,Media,En Proceso,11-08-24,16-08-24,,,158,5,No,6.28
+SOL-0011,19-03-24,CAT-005,USR-009,APR-002,Reformulación,Tradicional,Alta,En Proceso,21-03-24,24-03-24,29-03-24,,302,7,No,7.85
+SOL-0012,02-05-24,CAT-010,USR-006,APR-004,Reformulación,E-commerce,Alta,Aprobado,03-05-24,06-05-24,07-05-24,08-05-24,6,4,No,6.36
+SOL-0013,15-05-24,CAT-002,USR-009,APR-002,Relanzamiento,Tradicional,Baja,Aprobado,18-05-24,23-05-24,28-05-24,30-05-24,15,5,No,6.2
+SOL-0014,25-04-24,CAT-007,USR-006,APR-004,Nuevo SKU,Tradicional,Media,En Proceso,26-04-24,30-04-24,,,265,5,No,4.93
+SOL-0015,04-02-24,CAT-010,USR-004,APR-001,Nuevo SKU,Tradicional,Baja,Aprobado,05-02-24,09-02-24,,11-02-24,7,4,No,2.73
+SOL-0016,30-08-24,CAT-008,USR-004,APR-002,Relanzamiento,Tradicional,Media,En Proceso,01-09-24,04-09-24,,,138,6,No,5.77
+SOL-0017,01-02-24,CAT-006,USR-007,APR-004,Nuevo SKU,Moderno,Baja,Rechazado,03-02-24,07-02-24,08-02-24,10-02-24,9,5,No,2.03
+SOL-0018,07-05-24,CAT-009,USR-008,APR-002,Reformulación,Exportación,Alta,Rechazado,08-05-24,13-05-24,18-05-24,19-05-24,12,6,No,0.9
+SOL-0019,03-09-24,CAT-009,USR-001,APR-001,Relanzamiento,Exportación,Alta,Aprobado,04-09-24,09-09-24,11-09-24,15-09-24,12,6,No,0.52
+SOL-0020,07-04-24,CAT-007,USR-005,APR-004,Relanzamiento,Tradicional,Media,Aprobado,09-04-24,12-04-24,17-04-24,18-04-24,11,5,No,6.48
+SOL-0021,17-09-24,CAT-001,USR-001,APR-004,Extensión de Línea,Moderno,Media,En Proceso,18-09-24,21-09-24,,,120,5,No,1.04
+SOL-0022,02-08-24,CAT-004,USR-007,APR-001,Nuevo SKU,Moderno,Alta,En Proceso,05-08-24,09-08-24,11-08-24,,166,7,No,5.86
+SOL-0023,10-06-24,CAT-006,USR-004,APR-003,Reformulación,Exportación,Alta,Rechazado,11-06-24,13-06-24,18-06-24,19-06-24,9,5,No,1.09
+SOL-0024,08-07-24,CAT-004,USR-009,APR-003,Nuevo SKU,Tradicional,Media,Aprobado,10-07-24,13-07-24,18-07-24,21-07-24,13,7,No,5.39
+SOL-0025,29-02-24,CAT-009,USR-001,APR-003,Extensión de Línea,E-commerce,Alta,En Proceso,01-03-24,04-03-24,09-03-24,,321,6,No,2.19
+SOL-0026,17-02-24,CAT-006,USR-004,APR-003,Reformulación,Moderno,Media,En Proceso,20-02-24,25-02-24,26-02-24,,333,5,No,0.53
+SOL-0027,27-02-24,CAT-003,USR-005,APR-002,Relanzamiento,Moderno,Media,En Proceso,28-02-24,02-03-24,05-03-24,,323,6,No,5.16
+SOL-0028,02-07-24,CAT-003,USR-007,APR-002,Reformulación,Moderno,Media,Aprobado,03-07-24,06-07-24,09-07-24,13-07-24,11,6,No,8.29
+SOL-0029,19-06-24,CAT-003,USR-004,APR-002,Nuevo SKU,Tradicional,Media,Aprobado,21-06-24,24-06-24,30-06-24,01-07-24,12,6,No,3.56
+SOL-0030,26-04-24,CAT-001,USR-008,APR-002,Reformulación,E-commerce,Media,Aprobado,27-04-24,29-04-24,03-05-24,06-05-24,10,5,No,2.73
+SOL-0031,15-01-24,CAT-002,USR-005,APR-003,Relanzamiento,E-commerce,Media,En Proceso,16-01-24,20-01-24,,,366,5,No,8.2
+SOL-0032,11-08-24,CAT-005,USR-001,APR-001,Reformulación,E-commerce,Media,En Proceso,14-08-24,16-08-24,21-08-24,,157,7,No,2.02
+SOL-0033,08-08-24,CAT-001,USR-007,APR-001,Extensión de Línea,E-commerce,Media,En Proceso,09-08-24,13-08-24,19-08-24,,160,5,No,7.28
+SOL-0034,22-12-24,CAT-005,USR-009,APR-003,Reformulación,Exportación,Media,En Proceso,24-12-24,27-12-24,,,24,7,No,5.82
+SOL-0035,26-05-24,CAT-007,USR-003,APR-003,Nuevo SKU,E-commerce,Media,Rechazado,27-05-24,01-06-24,06-06-24,09-06-24,14,5,No,4.22
+SOL-0036,20-09-24,CAT-008,USR-004,APR-004,Nuevo SKU,E-commerce,Alta,En Proceso,23-09-24,27-09-24,,,117,6,No,8.12
+SOL-0037,05-05-24,CAT-004,USR-005,APR-002,Nuevo SKU,Moderno,Alta,Aprobado,07-05-24,09-05-24,15-05-24,17-05-24,12,7,No,6.25
+SOL-0038,05-08-24,CAT-007,USR-008,APR-004,Nuevo SKU,Moderno,Alta,Aprobado,06-08-24,09-08-24,15-08-24,19-08-24,14,5,No,0.9
+SOL-0039,09-11-24,CAT-004,USR-002,APR-004,Reformulación,Exportación,Media,Aprobado,12-11-24,17-11-24,22-11-24,26-11-24,17,7,No,7.68
+SOL-0040,16-11-24,CAT-008,USR-008,APR-003,Reformulación,Exportación,Baja,Aprobado,17-11-24,21-11-24,27-11-24,30-11-24,14,6,No,2.38
+SOL-0041,21-12-24,CAT-006,USR-006,APR-001,Extensión de Línea,Exportación,Alta,Aprobado,22-12-24,25-12-24,,29-12-24,8,5,No,3.15
+SOL-0042,21-10-24,CAT-008,USR-007,APR-001,Relanzamiento,Moderno,Media,Aprobado,23-10-24,28-10-24,,31-10-24,10,6,No,2.89
+SOL-0043,05-09-24,CAT-007,USR-007,APR-002,Reformulación,Exportación,Alta,Rechazado,06-09-24,11-09-24,17-09-24,21-09-24,16,5,No,6.29
+SOL-0044,25-11-24,CAT-008,USR-003,APR-001,Nuevo SKU,Moderno,Media,Rechazado,27-11-24,30-11-24,02-12-24,03-12-24,8,6,No,2.58
+SOL-0045,03-08-24,CAT-006,USR-004,APR-004,Relanzamiento,E-commerce,Media,Aprobado,05-08-24,07-08-24,13-08-24,14-08-24,11,5,No,8.5
+SOL-0046,12-04-24,CAT-006,USR-004,APR-001,Nuevo SKU,Tradicional,Alta,En Proceso,13-04-24,16-04-24,20-04-24,,278,5,No,5.86
+SOL-0047,06-11-24,CAT-010,USR-004,APR-004,Reformulación,Tradicional,Media,En Proceso,09-11-24,11-11-24,13-11-24,,70,4,No,8.22
+SOL-0048,11-04-24,CAT-002,USR-010,APR-001,Relanzamiento,Exportación,Media,Aprobado,12-04-24,15-04-24,,18-04-24,7,5,No,7.3
+SOL-0049,05-02-24,CAT-010,USR-002,APR-001,Relanzamiento,E-commerce,Media,Aprobado,08-02-24,12-02-24,,16-02-24,11,4,No,7.08
+SOL-0050,31-03-24,CAT-002,USR-007,APR-003,Extensión de Línea,Exportación,Media,En Proceso,03-04-24,07-04-24,12-04-24,,290,5,No,6.7
+SOL-0051,18-08-24,CAT-008,USR-007,APR-003,Nuevo SKU,E-commerce,Alta,Aprobado,19-08-24,24-08-24,30-08-24,03-09-24,16,6,No,3.19
+SOL-0052,23-06-24,CAT-008,USR-006,APR-002,Reformulación,E-commerce,Alta,Rechazado,25-06-24,29-06-24,04-07-24,06-07-24,13,6,No,1.18
+SOL-0053,09-01-24,CAT-007,USR-008,APR-002,Relanzamiento,Exportación,Media,En Proceso,10-01-24,14-01-24,20-01-24,,372,5,No,2.45
+SOL-0054,08-10-24,CAT-010,USR-006,APR-004,Reformulación,Exportación,Media,En Proceso,10-10-24,14-10-24,17-10-24,,99,4,No,2.95
+SOL-0055,20-04-24,CAT-004,USR-002,APR-002,Extensión de Línea,Tradicional,Alta,Aprobado,23-04-24,28-04-24,03-05-24,06-05-24,16,7,No,8.34
+SOL-0056,28-12-24,CAT-004,USR-005,APR-002,Reformulación,Moderno,Alta,Aprobado,31-12-24,03-01-25,04-01-25,07-01-25,10,7,No,6.08
+SOL-0057,02-09-24,CAT-003,USR-008,APR-001,Reformulación,Exportación,Media,Aprobado,04-09-24,08-09-24,,09-09-24,7,6,No,2.52
+SOL-0058,18-03-24,CAT-008,USR-002,APR-001,Nuevo SKU,Moderno,Media,Rechazado,19-03-24,23-03-24,,25-03-24,7,6,No,1.45
+SOL-0059,01-06-24,CAT-007,USR-010,APR-002,Relanzamiento,Exportación,Media,En Proceso,04-06-24,09-06-24,14-06-24,,228,5,No,0.98
+SOL-0060,02-05-24,CAT-002,USR-004,APR-002,Nuevo SKU,Tradicional,Baja,Aprobado,03-05-24,05-05-24,,09-05-24,7,5,No,4.1
+SOL-0061,25-12-24,CAT-010,USR-008,APR-003,Reformulación,E-commerce,Alta,Aprobado,27-12-24,29-12-24,01-01-25,03-01-25,9,4,No,3.9
+SOL-0062,25-03-24,CAT-009,USR-004,APR-002,Nuevo SKU,Moderno,Alta,Aprobado,27-03-24,31-03-24,04-04-24,07-04-24,13,6,No,6.1
+SOL-0063,14-06-24,CAT-005,USR-009,APR-004,Nuevo SKU,Exportación,Alta,Rechazado,17-06-24,21-06-24,,23-06-24,9,7,No,8.2
+SOL-0064,28-08-24,CAT-010,USR-010,APR-001,Nuevo SKU,Tradicional,Media,En Proceso,31-08-24,05-09-24,07-09-24,,140,4,No,8.48
+SOL-0065,13-06-24,CAT-007,USR-008,APR-001,Relanzamiento,E-commerce,Media,Rechazado,16-06-24,18-06-24,21-06-24,25-06-24,12,5,No,6.05
+SOL-0066,14-06-24,CAT-005,USR-007,APR-001,Reformulación,E-commerce,Alta,Rechazado,15-06-24,20-06-24,21-06-24,25-06-24,11,7,No,3.81
+SOL-0067,14-04-24,CAT-004,USR-009,APR-003,Relanzamiento,Moderno,Media,En Proceso,16-04-24,19-04-24,23-04-24,,276,7,No,7.55
+SOL-0068,08-06-24,CAT-008,USR-002,APR-001,Extensión de Línea,Tradicional,Media,En Proceso,11-06-24,13-06-24,14-06-24,,221,6,No,2.3
+SOL-0069,17-09-24,CAT-002,USR-008,APR-001,Relanzamiento,E-commerce,Alta,En Proceso,20-09-24,24-09-24,28-09-24,,120,5,No,8.34
+SOL-0070,21-05-24,CAT-004,USR-008,APR-002,Extensión de Línea,Moderno,Alta,Rechazado,23-05-24,27-05-24,01-06-24,04-06-24,14,7,No,7.06
+SOL-0071,19-06-24,CAT-005,USR-005,APR-004,Relanzamiento,E-commerce,Media,Aprobado,22-06-24,27-06-24,30-06-24,02-07-24,13,7,No,8.35
+SOL-0072,30-08-24,CAT-004,USR-010,APR-004,Nuevo SKU,E-commerce,Media,Aprobado,02-09-24,07-09-24,13-09-24,15-09-24,16,7,No,4.46
+SOL-0073,08-01-24,CAT-001,USR-003,APR-003,Nuevo SKU,Exportación,Media,Aprobado,11-01-24,14-01-24,20-01-24,22-01-24,14,5,No,1.1
+SOL-0074,11-06-24,CAT-005,USR-006,APR-004,Reformulación,Exportación,Alta,En Proceso,14-06-24,19-06-24,20-06-24,,218,7,No,5.44
+SOL-0075,20-11-24,CAT-004,USR-005,APR-002,Relanzamiento,Moderno,Alta,En Proceso,23-11-24,25-11-24,01-12-24,,56,7,No,2.9
+SOL-0076,08-08-24,CAT-001,USR-001,APR-003,Reformulación,E-commerce,Media,Aprobado,09-08-24,12-08-24,17-08-24,19-08-24,11,5,No,1.86
+SOL-0077,25-10-24,CAT-002,USR-010,APR-004,Extensión de Línea,Exportación,Baja,En Proceso,26-10-24,29-10-24,01-11-24,,82,5,No,4.18
+SOL-0078,14-08-24,CAT-001,USR-008,APR-003,Extensión de Línea,Moderno,Media,En Proceso,16-08-24,20-08-24,24-08-24,,154,5,No,6.02
+SOL-0079,14-07-24,CAT-008,USR-005,APR-002,Nuevo SKU,Tradicional,Media,Rechazado,17-07-24,21-07-24,27-07-24,30-07-24,16,6,No,0.68
+SOL-0080,26-05-24,CAT-007,USR-005,APR-001,Nuevo SKU,Exportación,Baja,En Proceso,27-05-24,31-05-24,02-06-24,,234,5,No,5.47
+SOL-0081,08-03-24,CAT-003,USR-002,APR-001,Nuevo SKU,E-commerce,Media,Aprobado,09-03-24,13-03-24,17-03-24,19-03-24,11,6,No,2.11
+SOL-0082,22-06-24,CAT-009,USR-006,APR-003,Relanzamiento,E-commerce,Media,Aprobado,23-06-24,28-06-24,30-06-24,02-07-24,10,6,No,7.38
+SOL-0083,01-10-24,CAT-007,USR-009,APR-003,Nuevo SKU,E-commerce,Media,Aprobado,02-10-24,07-10-24,13-10-24,16-10-24,15,5,No,5.18
+SOL-0084,27-11-24,CAT-006,USR-002,APR-002,Reformulación,Tradicional,Alta,Rechazado,28-11-24,03-12-24,06-12-24,10-12-24,13,5,No,1.43
+SOL-0085,02-10-24,CAT-001,USR-001,APR-003,Nuevo SKU,Tradicional,Alta,Rechazado,03-10-24,08-10-24,14-10-24,18-10-24,16,5,No,5.2
+SOL-0086,17-01-24,CAT-003,USR-007,APR-001,Relanzamiento,E-commerce,Media,Rechazado,20-01-24,24-01-24,28-01-24,30-01-24,13,6,No,7.34
+SOL-0087,03-03-24,CAT-002,USR-006,APR-003,Reformulación,Tradicional,Media,Aprobado,05-03-24,07-03-24,13-03-24,14-03-24,11,5,No,0.9
+SOL-0088,27-10-24,CAT-006,USR-004,APR-002,Nuevo SKU,Tradicional,Alta,En Proceso,28-10-24,31-10-24,02-11-24,,80,5,No,6.81
+SOL-0089,26-02-24,CAT-010,USR-001,APR-003,Reformulación,Tradicional,Alta,Aprobado,29-02-24,02-03-24,,05-03-24,8,4,No,6.82
+SOL-0090,05-03-24,CAT-004,USR-010,APR-003,Reformulación,Moderno,Alta,Aprobado,08-03-24,13-03-24,19-03-24,20-03-24,15,7,No,4.31
+SOL-0091,03-12-24,CAT-006,USR-009,APR-001,Extensión de Línea,Moderno,Media,Rechazado,06-12-24,10-12-24,11-12-24,12-12-24,9,5,No,8.49
+SOL-0092,11-02-24,CAT-007,USR-007,APR-001,Relanzamiento,Moderno,Baja,Rechazado,13-02-24,16-02-24,,19-02-24,8,5,No,5.49
+SOL-0093,15-09-24,CAT-010,USR-009,APR-003,Reformulación,Exportación,Media,Rechazado,18-09-24,23-09-24,,24-09-24,9,4,No,7.32
+SOL-0094,20-08-24,CAT-009,USR-004,APR-004,Relanzamiento,E-commerce,Alta,Rechazado,22-08-24,27-08-24,30-08-24,03-09-24,14,6,No,3
+SOL-0095,13-02-24,CAT-005,USR-006,APR-002,Nuevo SKU,Moderno,Media,En Proceso,14-02-24,19-02-24,,,337,7,No,6.41
+SOL-0096,29-07-24,CAT-003,USR-009,APR-001,Reformulación,Moderno,Media,En Proceso,31-07-24,05-08-24,11-08-24,,170,6,No,0.91
+SOL-0097,02-12-24,CAT-005,USR-010,APR-003,Extensión de Línea,Tradicional,Alta,Aprobado,04-12-24,07-12-24,10-12-24,13-12-24,11,7,No,1.42
+SOL-0098,15-01-24,CAT-005,USR-010,APR-002,Nuevo SKU,E-commerce,Media,Rechazado,16-01-24,20-01-24,23-01-24,26-01-24,11,7,No,3.31
+SOL-0099,28-09-24,CAT-003,USR-003,APR-004,Nuevo SKU,Moderno,Alta,Aprobado,29-09-24,04-10-24,07-10-24,09-10-24,11,6,No,3.46
+SOL-0100,11-12-24,CAT-006,USR-010,APR-001,Extensión de Línea,Moderno,Alta,Aprobado,12-12-24,16-12-24,20-12-24,24-12-24,13,5,No,5.36
+SOL-0101,26-02-24,CAT-007,USR-005,APR-002,Reformulación,Exportación,Alta,En Proceso,28-02-24,04-03-24,07-03-24,,324,5,No,0.86
+SOL-0102,11-03-24,CAT-007,USR-010,APR-001,Reformulación,Tradicional,Alta,Aprobado,13-03-24,17-03-24,18-03-24,22-03-24,11,5,No,6.48
+SOL-0103,06-02-24,CAT-003,USR-003,APR-004,Extensión de Línea,E-commerce,Baja,En Proceso,08-02-24,10-02-24,14-02-24,,344,6,No,7.87
+SOL-0104,28-02-24,CAT-006,USR-010,APR-004,Relanzamiento,E-commerce,Media,En Proceso,01-03-24,03-03-24,05-03-24,,322,5,No,6.91
+SOL-0105,11-08-24,CAT-010,USR-008,APR-003,Nuevo SKU,Tradicional,Media,Aprobado,14-08-24,19-08-24,23-08-24,26-08-24,15,4,No,6.47
+SOL-0106,27-06-24,CAT-004,USR-006,APR-002,Nuevo SKU,Tradicional,Media,Aprobado,29-06-24,02-07-24,04-07-24,07-07-24,10,7,No,2.08
+SOL-0107,15-10-24,CAT-010,USR-003,APR-001,Relanzamiento,Exportación,Baja,Aprobado,18-10-24,23-10-24,28-10-24,31-10-24,16,4,No,7.41
+SOL-0108,20-05-24,CAT-006,USR-003,APR-004,Relanzamiento,E-commerce,Media,Aprobado,23-05-24,25-05-24,26-05-24,29-05-24,9,5,No,4.19
+SOL-0109,24-08-24,CAT-001,USR-001,APR-003,Nuevo SKU,Exportación,Alta,Aprobado,27-08-24,29-08-24,03-09-24,05-09-24,12,5,No,3.07
+SOL-0110,31-12-24,CAT-008,USR-009,APR-002,Nuevo SKU,E-commerce,Media,Aprobado,01-01-25,04-01-25,,08-01-25,8,6,No,8.43
+SOL-0111,28-07-24,CAT-009,USR-009,APR-002,Reformulación,Exportación,Media,Aprobado,30-07-24,01-08-24,07-08-24,10-08-24,13,6,No,1.03
+SOL-0112,11-02-24,CAT-002,USR-009,APR-004,Extensión de Línea,E-commerce,Media,Aprobado,14-02-24,17-02-24,20-02-24,24-02-24,13,5,No,1.53
+SOL-0113,26-11-24,CAT-002,USR-005,APR-004,Extensión de Línea,Moderno,Media,En Proceso,29-11-24,04-12-24,05-12-24,,50,5,No,3.4
+SOL-0114,20-03-24,CAT-003,USR-004,APR-003,Extensión de Línea,Tradicional,Alta,Rechazado,21-03-24,25-03-24,26-03-24,27-03-24,7,6,No,5.8
+SOL-0115,12-08-24,CAT-010,USR-003,APR-004,Extensión de Línea,Tradicional,Alta,Aprobado,13-08-24,18-08-24,24-08-24,26-08-24,14,4,No,8.26
+SOL-0116,28-08-24,CAT-010,USR-005,APR-004,Extensión de Línea,E-commerce,Media,Aprobado,29-08-24,02-09-24,07-09-24,11-09-24,14,4,No,4.19
+SOL-0117,27-01-24,CAT-005,USR-007,APR-004,Extensión de Línea,E-commerce,Alta,Aprobado,30-01-24,04-02-24,09-02-24,10-02-24,14,7,No,6.19
+SOL-0118,19-09-24,CAT-009,USR-002,APR-003,Reformulación,Exportación,Alta,Aprobado,20-09-24,25-09-24,,27-09-24,8,6,No,7.03
+SOL-0119,16-07-24,CAT-006,USR-001,APR-004,Reformulación,Tradicional,Media,Aprobado,17-07-24,21-07-24,24-07-24,25-07-24,9,5,No,7.21
+SOL-0120,27-12-24,CAT-006,USR-003,APR-002,Relanzamiento,Tradicional,Media,Aprobado,29-12-24,03-01-25,04-01-25,05-01-25,9,5,No,2.55
+SOL-0121,03-03-24,CAT-003,USR-009,APR-004,Extensión de Línea,E-commerce,Media,Aprobado,04-03-24,07-03-24,12-03-24,16-03-24,13,6,No,1
+SOL-0122,29-05-24,CAT-008,USR-010,APR-001,Extensión de Línea,Tradicional,Media,En Proceso,31-05-24,02-06-24,04-06-24,,231,6,No,5.07
+SOL-0123,28-08-24,CAT-003,USR-002,APR-003,Nuevo SKU,Exportación,Media,Aprobado,29-08-24,03-09-24,06-09-24,07-09-24,10,6,No,3.36
+SOL-0124,09-03-24,CAT-002,USR-006,APR-002,Nuevo SKU,E-commerce,Baja,En Proceso,10-03-24,14-03-24,20-03-24,,312,5,No,1.9
+SOL-0125,30-05-24,CAT-008,USR-008,APR-002,Relanzamiento,Moderno,Alta,Aprobado,31-05-24,02-06-24,03-06-24,06-06-24,7,6,No,7.97
+SOL-0126,01-07-24,CAT-009,USR-007,APR-004,Extensión de Línea,E-commerce,Alta,Aprobado,02-07-24,06-07-24,09-07-24,13-07-24,12,6,No,7.62
+SOL-0127,22-09-24,CAT-008,USR-007,APR-003,Relanzamiento,E-commerce,Media,Aprobado,24-09-24,26-09-24,27-09-24,01-10-24,9,6,No,5.32
+SOL-0128,04-12-24,CAT-003,USR-009,APR-003,Nuevo SKU,E-commerce,Alta,Aprobado,06-12-24,10-12-24,16-12-24,20-12-24,16,6,No,1.83
+SOL-0129,20-05-24,CAT-008,USR-006,APR-004,Reformulación,Exportación,Baja,Aprobado,23-05-24,25-05-24,,29-05-24,9,6,No,3.41
+SOL-0130,05-03-24,CAT-003,USR-001,APR-002,Relanzamiento,Moderno,Baja,En Proceso,06-03-24,09-03-24,12-03-24,,316,6,No,3.4
+SOL-0131,15-08-24,CAT-010,USR-001,APR-002,Reformulación,E-commerce,Media,En Proceso,16-08-24,19-08-24,23-08-24,,153,4,No,3.02
+SOL-0132,22-09-24,CAT-005,USR-004,APR-001,Extensión de Línea,Exportación,Baja,Aprobado,24-09-24,26-09-24,29-09-24,03-10-24,11,7,No,2.22
+SOL-0133,19-08-24,CAT-010,USR-005,APR-004,Extensión de Línea,Moderno,Alta,Aprobado,20-08-24,25-08-24,31-08-24,03-09-24,15,4,No,5.84
+SOL-0134,17-09-24,CAT-002,USR-009,APR-003,Extensión de Línea,E-commerce,Alta,Aprobado,18-09-24,20-09-24,22-09-24,24-09-24,7,5,No,6.82
+SOL-0135,03-02-24,CAT-001,USR-006,APR-003,Extensión de Línea,Moderno,Media,Rechazado,05-02-24,10-02-24,16-02-24,20-02-24,17,5,No,4.71
+SOL-0136,26-08-24,CAT-007,USR-010,APR-001,Nuevo SKU,Exportación,Media,Aprobado,29-08-24,02-09-24,,04-09-24,9,5,No,6.64
+SOL-0137,25-03-24,CAT-003,USR-007,APR-001,Extensión de Línea,E-commerce,Media,Aprobado,26-03-24,30-03-24,01-04-24,04-04-24,10,6,No,8.08
+SOL-0138,16-11-24,CAT-009,USR-005,APR-001,Reformulación,Tradicional,Alta,Aprobado,18-11-24,20-11-24,22-11-24,24-11-24,8,6,No,1.87
+SOL-0139,24-01-24,CAT-010,USR-010,APR-003,Nuevo SKU,Moderno,Alta,En Proceso,27-01-24,31-01-24,05-02-24,,357,4,No,3.83
+SOL-0140,16-12-24,CAT-001,USR-008,APR-003,Relanzamiento,Tradicional,Media,En Proceso,18-12-24,22-12-24,28-12-24,,30,5,No,0.98
+SOL-0141,09-06-24,CAT-008,USR-007,APR-004,Reformulación,Tradicional,Alta,Rechazado,12-06-24,16-06-24,19-06-24,23-06-24,14,6,No,1.55
+SOL-0142,16-05-24,CAT-006,USR-009,APR-001,Relanzamiento,Moderno,Alta,Aprobado,18-05-24,21-05-24,,22-05-24,6,5,No,2.82
+SOL-0143,07-04-24,CAT-007,USR-010,APR-004,Reformulación,E-commerce,Alta,Aprobado,08-04-24,13-04-24,17-04-24,21-04-24,14,5,No,7.53
+SOL-0144,20-04-24,CAT-008,USR-001,APR-001,Relanzamiento,Tradicional,Media,Rechazado,23-04-24,27-04-24,,30-04-24,10,6,No,4.46
+SOL-0145,06-07-24,CAT-008,USR-005,APR-001,Extensión de Línea,E-commerce,Media,Aprobado,08-07-24,12-07-24,,13-07-24,7,6,No,5.06
+SOL-0146,15-11-24,CAT-004,USR-006,APR-003,Relanzamiento,E-commerce,Media,Aprobado,18-11-24,20-11-24,,21-11-24,6,7,Sí,3.65
+SOL-0147,24-01-24,CAT-006,USR-009,APR-003,Relanzamiento,Moderno,Alta,Aprobado,25-01-24,28-01-24,01-02-24,05-02-24,12,5,No,1.69
+SOL-0148,11-11-24,CAT-009,USR-003,APR-003,Extensión de Línea,Exportación,Media,En Proceso,14-11-24,18-11-24,23-11-24,,65,6,No,7.13
+SOL-0149,10-12-24,CAT-009,USR-008,APR-003,Reformulación,E-commerce,Alta,Rechazado,11-12-24,16-12-24,22-12-24,23-12-24,13,6,No,5.28
+SOL-0150,25-09-24,CAT-005,USR-010,APR-002,Relanzamiento,Tradicional,Alta,En Proceso,28-09-24,03-10-24,,,112,7,No,5.95
+SOL-0151,02-08-24,CAT-001,USR-010,APR-001,Relanzamiento,E-commerce,Alta,Aprobado,03-08-24,08-08-24,12-08-24,16-08-24,14,5,No,7.48
+SOL-0152,09-06-24,CAT-001,USR-003,APR-002,Relanzamiento,Exportación,Media,En Proceso,10-06-24,15-06-24,18-06-24,,220,5,No,4.87
+SOL-0153,25-04-24,CAT-005,USR-010,APR-004,Reformulación,E-commerce,Alta,Aprobado,27-04-24,01-05-24,07-05-24,11-05-24,16,7,No,3.04
+SOL-0154,25-06-24,CAT-006,USR-009,APR-003,Relanzamiento,Exportación,Alta,Aprobado,26-06-24,30-06-24,,01-07-24,6,5,No,3.27
+SOL-0155,11-03-24,CAT-008,USR-005,APR-004,Reformulación,E-commerce,Alta,Aprobado,12-03-24,15-03-24,21-03-24,23-03-24,12,6,No,5.6
+SOL-0156,14-12-24,CAT-001,USR-002,APR-004,Relanzamiento,Moderno,Baja,Aprobado,15-12-24,17-12-24,19-12-24,23-12-24,9,5,No,5.72
+SOL-0157,15-02-24,CAT-008,USR-008,APR-002,Reformulación,Moderno,Media,Aprobado,18-02-24,21-02-24,27-02-24,28-02-24,13,6,No,7.81
+SOL-0158,28-05-24,CAT-003,USR-007,APR-002,Relanzamiento,Tradicional,Media,Aprobado,29-05-24,31-05-24,05-06-24,06-06-24,9,6,No,7.93
+SOL-0159,15-09-24,CAT-006,USR-005,APR-004,Relanzamiento,Tradicional,Media,En Proceso,17-09-24,21-09-24,,,122,5,No,1.4
+SOL-0160,31-05-24,CAT-003,USR-008,APR-003,Nuevo SKU,E-commerce,Alta,En Proceso,03-06-24,06-06-24,,,229,6,No,7.35
+SOL-0161,12-03-24,CAT-007,USR-007,APR-003,Nuevo SKU,Tradicional,Media,Aprobado,14-03-24,18-03-24,19-03-24,22-03-24,10,5,No,3.57
+SOL-0162,30-11-24,CAT-008,USR-005,APR-003,Nuevo SKU,E-commerce,Media,Aprobado,02-12-24,05-12-24,,06-12-24,6,6,Sí,4.22
+SOL-0163,10-11-24,CAT-003,USR-007,APR-003,Reformulación,E-commerce,Alta,En Proceso,11-11-24,14-11-24,18-11-24,,66,6,No,1.73
+SOL-0164,06-05-24,CAT-010,USR-006,APR-004,Relanzamiento,Tradicional,Media,En Proceso,09-05-24,11-05-24,16-05-24,,254,4,No,6.13
+SOL-0165,25-03-24,CAT-002,USR-010,APR-001,Extensión de Línea,Tradicional,Media,Aprobado,27-03-24,01-04-24,,03-04-24,9,5,No,6.24
+SOL-0166,21-08-24,CAT-008,USR-002,APR-004,Extensión de Línea,Exportación,Media,Aprobado,24-08-24,26-08-24,01-09-24,04-09-24,14,6,No,6.29
+SOL-0167,04-08-24,CAT-007,USR-005,APR-001,Nuevo SKU,Moderno,Alta,En Proceso,06-08-24,08-08-24,09-08-24,,164,5,No,7.98
+SOL-0168,24-11-24,CAT-002,USR-008,APR-001,Extensión de Línea,Tradicional,Media,Aprobado,27-11-24,02-12-24,06-12-24,10-12-24,16,5,No,7.46
+SOL-0169,01-03-24,CAT-007,USR-007,APR-001,Extensión de Línea,E-commerce,Baja,En Proceso,02-03-24,07-03-24,13-03-24,,320,5,No,8.33
+SOL-0170,27-04-24,CAT-001,USR-001,APR-003,Relanzamiento,Exportación,Baja,Rechazado,28-04-24,03-05-24,06-05-24,08-05-24,11,5,No,8
+SOL-0171,04-02-24,CAT-002,USR-001,APR-004,Extensión de Línea,Tradicional,Alta,En Proceso,05-02-24,07-02-24,13-02-24,,346,5,No,6.13
+SOL-0172,29-01-24,CAT-001,USR-004,APR-001,Extensión de Línea,Tradicional,Media,Rechazado,30-01-24,03-02-24,09-02-24,12-02-24,14,5,No,5.12
+SOL-0173,02-06-24,CAT-006,USR-004,APR-003,Extensión de Línea,Exportación,Baja,Aprobado,04-06-24,06-06-24,11-06-24,13-06-24,11,5,No,5.51
+SOL-0174,22-12-24,CAT-007,USR-009,APR-004,Relanzamiento,E-commerce,Media,Aprobado,24-12-24,29-12-24,,02-01-25,11,5,No,1.97
+SOL-0175,30-01-24,CAT-009,USR-008,APR-002,Extensión de Línea,Exportación,Media,Aprobado,02-02-24,07-02-24,12-02-24,14-02-24,15,6,No,3.61
+SOL-0176,17-02-24,CAT-005,USR-004,APR-003,Relanzamiento,E-commerce,Alta,En Proceso,20-02-24,23-02-24,,,333,7,No,3.52
+SOL-0177,16-04-24,CAT-010,USR-010,APR-001,Extensión de Línea,Exportación,Alta,Aprobado,18-04-24,22-04-24,23-04-24,25-04-24,9,4,No,8
+SOL-0178,02-05-24,CAT-002,USR-008,APR-002,Extensión de Línea,Exportación,Media,En Proceso,05-05-24,09-05-24,13-05-24,,258,5,No,4.23
+SOL-0179,20-02-24,CAT-006,USR-005,APR-003,Relanzamiento,Exportación,Media,Aprobado,23-02-24,28-02-24,02-03-24,04-03-24,13,5,No,3.47
+SOL-0180,10-10-24,CAT-007,USR-001,APR-002,Nuevo SKU,E-commerce,Alta,En Proceso,13-10-24,18-10-24,20-10-24,,97,5,No,3.14
+SOL-0181,07-09-24,CAT-007,USR-010,APR-002,Reformulación,E-commerce,Media,Rechazado,10-09-24,15-09-24,21-09-24,24-09-24,17,5,No,1.85
+SOL-0182,08-02-24,CAT-009,USR-008,APR-002,Nuevo SKU,Moderno,Baja,En Proceso,11-02-24,13-02-24,17-02-24,,342,6,No,1.6
+SOL-0183,31-01-24,CAT-004,USR-002,APR-002,Relanzamiento,E-commerce,Alta,Aprobado,03-02-24,08-02-24,09-02-24,10-02-24,10,7,No,4.76
+SOL-0184,09-01-24,CAT-007,USR-001,APR-001,Reformulación,E-commerce,Baja,En Proceso,12-01-24,17-01-24,19-01-24,,372,5,No,1.36
+SOL-0185,16-05-24,CAT-002,USR-009,APR-002,Reformulación,E-commerce,Alta,Aprobado,18-05-24,20-05-24,24-05-24,28-05-24,12,5,No,5.02
+SOL-0186,26-07-24,CAT-004,USR-005,APR-001,Nuevo SKU,Moderno,Baja,En Proceso,28-07-24,02-08-24,03-08-24,,173,7,No,5.59
+SOL-0187,27-09-24,CAT-003,USR-002,APR-004,Reformulación,Moderno,Baja,Rechazado,28-09-24,01-10-24,07-10-24,11-10-24,14,6,No,2.67
+SOL-0188,27-10-24,CAT-002,USR-005,APR-001,Nuevo SKU,Tradicional,Media,Aprobado,28-10-24,02-11-24,05-11-24,07-11-24,11,5,No,5.01
+SOL-0189,13-09-24,CAT-010,USR-007,APR-003,Extensión de Línea,Moderno,Baja,Rechazado,16-09-24,20-09-24,,24-09-24,11,4,No,2.36
+SOL-0190,08-09-24,CAT-002,USR-006,APR-004,Reformulación,Exportación,Alta,Aprobado,09-09-24,13-09-24,17-09-24,21-09-24,13,5,No,1.99
+SOL-0191,12-02-24,CAT-010,USR-007,APR-001,Extensión de Línea,Moderno,Media,En Proceso,14-02-24,17-02-24,23-02-24,,338,4,No,1.73
+SOL-0192,15-08-24,CAT-007,USR-006,APR-003,Nuevo SKU,E-commerce,Alta,Aprobado,17-08-24,21-08-24,,22-08-24,7,5,No,2
+SOL-0193,10-10-24,CAT-008,USR-009,APR-004,Nuevo SKU,E-commerce,Alta,Aprobado,11-10-24,15-10-24,16-10-24,19-10-24,9,6,No,3.81
+SOL-0194,27-03-24,CAT-002,USR-009,APR-002,Extensión de Línea,Exportación,Media,En Proceso,28-03-24,01-04-24,05-04-24,,294,5,No,1.67
+SOL-0195,03-07-24,CAT-003,USR-007,APR-003,Relanzamiento,Moderno,Media,Rechazado,05-07-24,08-07-24,12-07-24,14-07-24,11,6,No,4.16
+SOL-0196,13-08-24,CAT-003,USR-005,APR-001,Relanzamiento,E-commerce,Media,Rechazado,15-08-24,20-08-24,26-08-24,28-08-24,15,6,No,2.9
+SOL-0197,29-05-24,CAT-010,USR-004,APR-004,Relanzamiento,E-commerce,Alta,Aprobado,01-06-24,06-06-24,08-06-24,11-06-24,13,4,No,3.51
+SOL-0198,24-08-24,CAT-007,USR-006,APR-001,Extensión de Línea,Moderno,Alta,En Proceso,27-08-24,30-08-24,02-09-24,,144,5,No,7.15
+SOL-0199,09-05-24,CAT-002,USR-007,APR-004,Reformulación,Tradicional,Baja,Aprobado,12-05-24,15-05-24,19-05-24,20-05-24,11,5,No,4.09
+SOL-0200,03-07-24,CAT-010,USR-008,APR-004,Relanzamiento,Moderno,Media,En Proceso,06-07-24,08-07-24,,,196,4,No,2.49
+SOL-0201,08-08-24,CAT-006,USR-003,APR-001,Relanzamiento,E-commerce,Baja,En Proceso,09-08-24,11-08-24,,,160,5,No,2.28
+SOL-0202,13-12-24,CAT-009,USR-009,APR-002,Relanzamiento,Exportación,Media,Rechazado,16-12-24,19-12-24,20-12-24,24-12-24,11,6,No,1.34
+SOL-0203,24-06-24,CAT-007,USR-002,APR-001,Reformulación,E-commerce,Alta,En Proceso,26-06-24,29-06-24,02-07-24,,205,5,No,4.31
+SOL-0204,12-01-24,CAT-008,USR-008,APR-003,Nuevo SKU,Moderno,Media,Aprobado,14-01-24,16-01-24,18-01-24,20-01-24,8,6,No,4.63
+SOL-0205,26-07-24,CAT-009,USR-003,APR-003,Relanzamiento,Tradicional,Media,En Proceso,29-07-24,01-08-24,,,173,6,No,5.76
+SOL-0206,03-01-24,CAT-007,USR-001,APR-002,Relanzamiento,Exportación,Media,Rechazado,06-01-24,09-01-24,15-01-24,16-01-24,13,5,No,5.12
+SOL-0207,14-05-24,CAT-009,USR-003,APR-003,Relanzamiento,Moderno,Alta,Aprobado,17-05-24,22-05-24,28-05-24,31-05-24,17,6,No,5.28
+SOL-0208,10-12-24,CAT-010,USR-007,APR-001,Relanzamiento,Tradicional,Media,Aprobado,13-12-24,17-12-24,22-12-24,23-12-24,13,4,No,5.88
+SOL-0209,21-12-24,CAT-006,USR-002,APR-002,Extensión de Línea,E-commerce,Alta,Aprobado,22-12-24,27-12-24,29-12-24,02-01-25,12,5,No,3.88
+SOL-0210,12-03-24,CAT-008,USR-009,APR-002,Relanzamiento,E-commerce,Alta,En Proceso,13-03-24,17-03-24,22-03-24,,309,6,No,0.93
+SOL-0211,28-07-24,CAT-006,USR-001,APR-004,Relanzamiento,Exportación,Alta,Aprobado,31-07-24,05-08-24,09-08-24,13-08-24,16,5,No,1.84
+SOL-0212,02-10-24,CAT-010,USR-001,APR-002,Reformulación,Tradicional,Alta,Aprobado,04-10-24,07-10-24,12-10-24,16-10-24,14,4,No,4.9
+SOL-0213,13-08-24,CAT-002,USR-010,APR-001,Reformulación,Moderno,Media,Aprobado,16-08-24,19-08-24,20-08-24,22-08-24,9,5,No,2.88
+SOL-0214,01-05-24,CAT-001,USR-008,APR-003,Relanzamiento,Moderno,Alta,Aprobado,02-05-24,06-05-24,11-05-24,15-05-24,14,5,No,1.83
+SOL-0215,01-11-24,CAT-003,USR-004,APR-002,Reformulación,E-commerce,Media,Aprobado,04-11-24,07-11-24,13-11-24,16-11-24,15,6,No,2.81
+SOL-0216,01-12-24,CAT-005,USR-009,APR-001,Nuevo SKU,E-commerce,Media,Aprobado,02-12-24,05-12-24,11-12-24,14-12-24,13,7,No,7.13
+SOL-0217,11-07-24,CAT-007,USR-008,APR-002,Reformulación,Exportación,Baja,En Proceso,13-07-24,15-07-24,16-07-24,,188,5,No,3.72
+SOL-0218,22-08-24,CAT-005,USR-006,APR-004,Nuevo SKU,Moderno,Media,Rechazado,25-08-24,29-08-24,03-09-24,07-09-24,16,7,No,2.24
+SOL-0219,07-10-24,CAT-007,USR-004,APR-004,Reformulación,E-commerce,Media,Aprobado,10-10-24,13-10-24,17-10-24,20-10-24,13,5,No,7.65
+SOL-0220,21-03-24,CAT-001,USR-001,APR-001,Nuevo SKU,Moderno,Media,En Proceso,23-03-24,28-03-24,,,300,5,No,8.16
+SOL-0221,08-05-24,CAT-004,USR-003,APR-003,Nuevo SKU,E-commerce,Media,Aprobado,09-05-24,13-05-24,19-05-24,21-05-24,13,7,No,0.91
+SOL-0222,19-04-24,CAT-005,USR-004,APR-004,Nuevo SKU,Moderno,Alta,En Proceso,21-04-24,23-04-24,,,271,7,No,2.31
+SOL-0223,21-12-24,CAT-008,USR-001,APR-001,Nuevo SKU,Exportación,Media,En Proceso,22-12-24,27-12-24,,,25,6,No,3.56
+SOL-0224,09-03-24,CAT-002,USR-002,APR-003,Extensión de Línea,Exportación,Media,Aprobado,12-03-24,15-03-24,,16-03-24,7,5,No,5.38
+SOL-0225,11-11-24,CAT-003,USR-008,APR-003,Extensión de Línea,Exportación,Alta,En Proceso,14-11-24,19-11-24,20-11-24,,65,6,No,7.67
+SOL-0226,06-05-24,CAT-003,USR-002,APR-004,Reformulación,Tradicional,Media,Aprobado,08-05-24,10-05-24,15-05-24,18-05-24,12,6,No,6.73
+SOL-0227,31-05-24,CAT-001,USR-005,APR-002,Extensión de Línea,Exportación,Media,En Proceso,03-06-24,05-06-24,07-06-24,,229,5,No,4.46
+SOL-0228,03-07-24,CAT-002,USR-004,APR-004,Nuevo SKU,Moderno,Media,En Proceso,05-07-24,08-07-24,13-07-24,,196,5,No,3.87
+SOL-0229,14-05-24,CAT-009,USR-003,APR-004,Nuevo SKU,Moderno,Alta,Aprobado,15-05-24,17-05-24,21-05-24,24-05-24,10,6,No,5.53
+SOL-0230,22-05-24,CAT-009,USR-007,APR-004,Nuevo SKU,Tradicional,Media,En Proceso,23-05-24,27-05-24,,,238,6,No,7.87
+SOL-0231,23-12-24,CAT-003,USR-009,APR-003,Nuevo SKU,E-commerce,Media,Rechazado,25-12-24,28-12-24,,29-12-24,6,6,Sí,7.9
+SOL-0232,07-01-24,CAT-002,USR-008,APR-001,Extensión de Línea,Moderno,Baja,Aprobado,10-01-24,13-01-24,15-01-24,19-01-24,12,5,No,8.12
+SOL-0233,01-03-24,CAT-009,USR-009,APR-003,Extensión de Línea,E-commerce,Media,Aprobado,02-03-24,06-03-24,09-03-24,10-03-24,9,6,No,2.6
+SOL-0234,12-09-24,CAT-010,USR-002,APR-004,Reformulación,Moderno,Media,Rechazado,15-09-24,18-09-24,21-09-24,22-09-24,10,4,No,7.65
+SOL-0235,29-08-24,CAT-002,USR-004,APR-001,Extensión de Línea,Moderno,Alta,Aprobado,31-08-24,05-09-24,07-09-24,08-09-24,10,5,No,4.92
+SOL-0236,09-02-24,CAT-007,USR-004,APR-003,Reformulación,E-commerce,Media,Aprobado,12-02-24,16-02-24,,17-02-24,8,5,No,1.93
+SOL-0237,16-06-24,CAT-009,USR-001,APR-004,Reformulación,E-commerce,Media,Aprobado,17-06-24,22-06-24,,24-06-24,8,6,No,2.83
+SOL-0238,06-10-24,CAT-005,USR-010,APR-002,Relanzamiento,Tradicional,Media,Rechazado,07-10-24,10-10-24,,14-10-24,8,7,No,0.69
+SOL-0239,23-02-24,CAT-009,USR-006,APR-001,Relanzamiento,E-commerce,Alta,Aprobado,24-02-24,27-02-24,28-02-24,01-03-24,7,6,No,6.19
+SOL-0240,13-02-24,CAT-002,USR-001,APR-002,Reformulación,Exportación,Media,En Proceso,16-02-24,18-02-24,24-02-24,,337,5,No,7.06
+SOL-0241,29-05-24,CAT-002,USR-010,APR-001,Extensión de Línea,Tradicional,Baja,Rechazado,31-05-24,04-06-24,08-06-24,11-06-24,13,5,No,3.04
+SOL-0242,24-02-24,CAT-005,USR-004,APR-001,Nuevo SKU,Tradicional,Alta,Aprobado,25-02-24,01-03-24,05-03-24,06-03-24,11,7,No,4.79
+SOL-0243,21-03-24,CAT-004,USR-008,APR-003,Nuevo SKU,Moderno,Media,Rechazado,24-03-24,28-03-24,03-04-24,04-04-24,14,7,No,2.22
+SOL-0244,19-09-24,CAT-006,USR-003,APR-001,Reformulación,Exportación,Alta,En Proceso,20-09-24,24-09-24,26-09-24,,118,5,No,0.75
+SOL-0245,03-03-24,CAT-007,USR-008,APR-002,Nuevo SKU,Tradicional,Media,Aprobado,04-03-24,06-03-24,08-03-24,10-03-24,7,5,No,2.09
+SOL-0246,12-01-24,CAT-007,USR-006,APR-001,Reformulación,Moderno,Media,En Proceso,13-01-24,16-01-24,20-01-24,,369,5,No,6.97
+SOL-0247,20-10-24,CAT-002,USR-006,APR-001,Nuevo SKU,Tradicional,Media,Aprobado,22-10-24,27-10-24,31-10-24,04-11-24,15,5,No,1.88
+SOL-0248,10-11-24,CAT-004,USR-003,APR-003,Extensión de Línea,Moderno,Media,Aprobado,13-11-24,16-11-24,20-11-24,24-11-24,14,7,No,7.56
+SOL-0249,12-04-24,CAT-008,USR-001,APR-001,Extensión de Línea,Exportación,Media,Aprobado,15-04-24,18-04-24,23-04-24,24-04-24,12,6,No,8.42
+SOL-0250,18-05-24,CAT-006,USR-008,APR-004,Reformulación,Exportación,Media,Aprobado,19-05-24,21-05-24,23-05-24,24-05-24,6,5,No,7.67
+SOL-0251,21-02-24,CAT-005,USR-001,APR-004,Extensión de Línea,Tradicional,Media,En Proceso,22-02-24,25-02-24,02-03-24,,329,7,No,0.95
+SOL-0252,30-10-24,CAT-004,USR-010,APR-004,Extensión de Línea,Tradicional,Alta,Aprobado,01-11-24,05-11-24,06-11-24,09-11-24,10,7,No,8.08
+SOL-0253,08-09-24,CAT-010,USR-003,APR-002,Reformulación,Tradicional,Media,Rechazado,09-09-24,11-09-24,,13-09-24,5,4,No,0.66
+SOL-0254,31-03-24,CAT-008,USR-001,APR-003,Extensión de Línea,E-commerce,Alta,En Proceso,02-04-24,04-04-24,,,290,6,No,5.19
+SOL-0255,21-06-24,CAT-003,USR-002,APR-003,Relanzamiento,Moderno,Media,Aprobado,23-06-24,27-06-24,,29-06-24,8,6,No,6.36
+SOL-0256,06-12-24,CAT-007,USR-008,APR-003,Reformulación,Tradicional,Baja,Aprobado,09-12-24,12-12-24,18-12-24,21-12-24,15,5,No,1.52
+SOL-0257,09-11-24,CAT-001,USR-010,APR-004,Extensión de Línea,E-commerce,Alta,En Proceso,10-11-24,12-11-24,14-11-24,,67,5,No,3.15
+SOL-0258,16-08-24,CAT-002,USR-004,APR-003,Nuevo SKU,E-commerce,Alta,Aprobado,17-08-24,21-08-24,27-08-24,28-08-24,12,5,No,3.3
+SOL-0259,30-07-24,CAT-002,USR-001,APR-001,Relanzamiento,Tradicional,Media,Rechazado,01-08-24,06-08-24,10-08-24,11-08-24,12,5,No,7.13
+SOL-0260,11-01-24,CAT-010,USR-004,APR-002,Nuevo SKU,E-commerce,Alta,Rechazado,13-01-24,17-01-24,18-01-24,21-01-24,10,4,No,1.86
+SOL-0261,26-12-24,CAT-007,USR-003,APR-001,Reformulación,Exportación,Alta,En Proceso,27-12-24,01-01-25,03-01-25,,20,5,No,5.36
+SOL-0262,28-07-24,CAT-007,USR-003,APR-001,Extensión de Línea,Tradicional,Media,Aprobado,31-07-24,04-08-24,07-08-24,09-08-24,12,5,No,1.27
+SOL-0263,06-08-24,CAT-007,USR-010,APR-004,Reformulación,Moderno,Alta,Aprobado,07-08-24,11-08-24,17-08-24,21-08-24,15,5,No,2.1
+SOL-0264,29-02-24,CAT-001,USR-004,APR-002,Nuevo SKU,Exportación,Media,En Proceso,02-03-24,07-03-24,13-03-24,,321,5,No,2.62
+SOL-0265,16-08-24,CAT-009,USR-007,APR-002,Reformulación,Tradicional,Media,Aprobado,17-08-24,21-08-24,24-08-24,26-08-24,10,6,No,7.2
+SOL-0266,08-12-24,CAT-010,USR-001,APR-002,Nuevo SKU,Moderno,Baja,En Proceso,10-12-24,15-12-24,20-12-24,,38,4,No,2.32
+SOL-0267,31-08-24,CAT-001,USR-007,APR-004,Relanzamiento,Tradicional,Baja,En Proceso,02-09-24,04-09-24,10-09-24,,137,5,No,0.78
+SOL-0268,18-04-24,CAT-010,USR-009,APR-002,Extensión de Línea,Tradicional,Media,Aprobado,19-04-24,22-04-24,,23-04-24,5,4,No,8.41
+SOL-0269,14-02-24,CAT-007,USR-004,APR-002,Reformulación,Moderno,Media,En Proceso,16-02-24,21-02-24,24-02-24,,336,5,No,4.66
+SOL-0270,17-10-24,CAT-001,USR-010,APR-004,Extensión de Línea,Tradicional,Media,Aprobado,20-10-24,22-10-24,27-10-24,28-10-24,11,5,No,6.79
+SOL-0271,20-01-24,CAT-009,USR-006,APR-004,Relanzamiento,Exportación,Media,Aprobado,21-01-24,25-01-24,30-01-24,03-02-24,14,6,No,0.81
+SOL-0272,11-01-24,CAT-006,USR-004,APR-001,Reformulación,E-commerce,Media,En Proceso,13-01-24,17-01-24,21-01-24,,370,5,No,7.37
+SOL-0273,17-05-24,CAT-002,USR-004,APR-002,Relanzamiento,E-commerce,Baja,Aprobado,20-05-24,25-05-24,26-05-24,28-05-24,11,5,No,4.03
+SOL-0274,08-06-24,CAT-007,USR-008,APR-003,Extensión de Línea,Moderno,Media,Aprobado,11-06-24,16-06-24,,17-06-24,9,5,No,1.89
+SOL-0275,26-12-24,CAT-004,USR-001,APR-002,Nuevo SKU,E-commerce,Media,Aprobado,27-12-24,31-12-24,04-01-25,08-01-25,13,7,No,5.58
+SOL-0276,30-08-24,CAT-002,USR-001,APR-002,Relanzamiento,Tradicional,Media,Aprobado,02-09-24,06-09-24,09-09-24,10-09-24,11,5,No,2.78
+SOL-0277,12-12-24,CAT-007,USR-001,APR-002,Extensión de Línea,Tradicional,Alta,En Proceso,13-12-24,17-12-24,22-12-24,,34,5,No,0.66
+SOL-0278,09-05-24,CAT-001,USR-008,APR-002,Nuevo SKU,Tradicional,Alta,En Proceso,12-05-24,16-05-24,22-05-24,,251,5,No,5.64
+SOL-0279,03-06-24,CAT-007,USR-007,APR-003,Extensión de Línea,Exportación,Media,Rechazado,06-06-24,11-06-24,12-06-24,15-06-24,12,5,No,4.99
+SOL-0280,02-02-24,CAT-010,USR-010,APR-003,Nuevo SKU,Exportación,Baja,Aprobado,04-02-24,08-02-24,11-02-24,14-02-24,12,4,No,5.75
+SOL-0281,04-12-24,CAT-005,USR-004,APR-002,Nuevo SKU,Exportación,Alta,En Proceso,06-12-24,09-12-24,15-12-24,,42,7,No,4.48
+SOL-0282,24-06-24,CAT-005,USR-005,APR-004,Nuevo SKU,Tradicional,Media,Rechazado,27-06-24,30-06-24,06-07-24,10-07-24,16,7,No,7.75
+SOL-0283,19-02-24,CAT-006,USR-009,APR-003,Extensión de Línea,E-commerce,Baja,Aprobado,21-02-24,24-02-24,01-03-24,03-03-24,13,5,No,8.08
+SOL-0284,18-06-24,CAT-006,USR-002,APR-002,Reformulación,Exportación,Alta,Aprobado,20-06-24,24-06-24,28-06-24,29-06-24,11,5,No,4.26
+SOL-0285,28-09-24,CAT-010,USR-010,APR-001,Nuevo SKU,Exportación,Alta,Rechazado,30-09-24,05-10-24,,07-10-24,9,4,No,1.6
+SOL-0286,02-04-24,CAT-004,USR-006,APR-004,Extensión de Línea,E-commerce,Media,En Proceso,03-04-24,08-04-24,10-04-24,,288,7,No,3.01
+SOL-0287,07-09-24,CAT-001,USR-001,APR-004,Extensión de Línea,Tradicional,Alta,Aprobado,08-09-24,11-09-24,17-09-24,21-09-24,14,5,No,3.73
+SOL-0288,08-01-24,CAT-008,USR-007,APR-001,Extensión de Línea,E-commerce,Media,Aprobado,10-01-24,13-01-24,,14-01-24,6,6,Sí,5.51
+SOL-0289,14-09-24,CAT-004,USR-004,APR-003,Nuevo SKU,Exportación,Alta,Aprobado,17-09-24,21-09-24,,22-09-24,8,7,No,2.89
+SOL-0290,07-09-24,CAT-005,USR-008,APR-003,Extensión de Línea,E-commerce,Baja,Rechazado,09-09-24,12-09-24,,16-09-24,9,7,No,0.65
+SOL-0291,06-07-24,CAT-004,USR-003,APR-002,Extensión de Línea,Moderno,Alta,En Proceso,09-07-24,11-07-24,17-07-24,,193,7,No,2.55
+SOL-0292,25-01-24,CAT-009,USR-010,APR-001,Nuevo SKU,Moderno,Alta,En Proceso,28-01-24,30-01-24,03-02-24,,356,6,No,1.49
+SOL-0293,03-08-24,CAT-005,USR-008,APR-002,Nuevo SKU,E-commerce,Baja,Aprobado,06-08-24,08-08-24,11-08-24,13-08-24,10,7,No,3.85
+SOL-0294,11-04-24,CAT-002,USR-009,APR-001,Nuevo SKU,Exportación,Alta,Aprobado,14-04-24,17-04-24,22-04-24,24-04-24,13,5,No,3.36
+SOL-0295,18-12-24,CAT-007,USR-005,APR-002,Relanzamiento,Tradicional,Media,Aprobado,20-12-24,24-12-24,25-12-24,26-12-24,8,5,No,7.76
+SOL-0296,11-05-24,CAT-010,USR-008,APR-002,Nuevo SKU,Moderno,Media,Aprobado,14-05-24,17-05-24,20-05-24,23-05-24,12,4,No,4.21
+SOL-0297,29-02-24,CAT-002,USR-003,APR-001,Reformulación,Exportación,Media,Aprobado,01-03-24,03-03-24,,05-03-24,5,5,Sí,5.81
+SOL-0298,09-07-24,CAT-003,USR-006,APR-003,Reformulación,Moderno,Media,Rechazado,11-07-24,14-07-24,,18-07-24,9,6,No,8.2
+SOL-0299,08-03-24,CAT-005,USR-007,APR-004,Extensión de Línea,Moderno,Baja,Rechazado,11-03-24,13-03-24,15-03-24,16-03-24,8,7,No,3.83
+SOL-0300,09-11-24,CAT-010,USR-008,APR-004,Relanzamiento,E-commerce,Media,Aprobado,10-11-24,13-11-24,17-11-24,18-11-24,9,4,No,7.6

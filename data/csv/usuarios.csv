@@ -1,0 +1,15 @@
+id_usuario,nombre_completo,area,rol
+USR-001,Ana Gutiérrez,Marketing,Solicitante
+USR-002,Carlos Mendoza,Comercial,Solicitante
+USR-003,Laura Ríos,Operaciones,Solicitante
+USR-004,Pedro Salinas,Supply Chain,Solicitante
+USR-005,Sofía Torres,I+D,Solicitante
+USR-006,Javier Mora,Marketing,Solicitante
+USR-007,Diana Castro,Comercial,Solicitante
+USR-008,Andrés Vargas,Operaciones,Solicitante
+USR-009,Valentina León,Supply Chain,Solicitante
+USR-010,Miguel Paredes,I+D,Solicitante
+APR-001,Rosa Fuentes,Data Master,Aprobador
+APR-002,Luis Herrera,Data Master,Aprobador
+APR-003,Elena Campos,Calidad,Aprobador
+APR-004,Tomás Vega,Regulatorio,Aprobador

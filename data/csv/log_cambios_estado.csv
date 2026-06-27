@@ -1,0 +1,1406 @@
+id_log,id_solicitud,estado_etapa,fecha_evento,id_responsable,observacion
+LOG-00001,SOL-0001,Recibida,12-12-24,APR-003,
+LOG-00002,SOL-0001,En Validación,13-12-24,APR-002,Observación menor
+LOG-00003,SOL-0001,En Revisión Calidad,14-12-24,APR-001,
+LOG-00004,SOL-0001,En Aprobación,15-12-24,APR-001,
+LOG-00005,SOL-0001,Cerrada,16-12-24,APR-003,Pendiente documentación
+LOG-00006,SOL-0002,Recibida,17-08-24,APR-004,Pendiente documentación
+LOG-00007,SOL-0002,En Validación,20-08-24,APR-002,Observación menor
+LOG-00008,SOL-0002,En Revisión Calidad,19-08-24,APR-001,
+LOG-00009,SOL-0002,En Aprobación,26-08-24,APR-003,Aprobado sin observaciones
+LOG-00010,SOL-0003,Recibida,22-02-24,APR-003,
+LOG-00011,SOL-0003,En Validación,24-02-24,APR-002,Observación menor
+LOG-00012,SOL-0003,En Revisión Calidad,24-02-24,APR-004,Pendiente documentación
+LOG-00013,SOL-0003,En Aprobación,02-03-24,APR-001,
+LOG-00014,SOL-0003,Cerrada,26-02-24,APR-004,Observación menor
+LOG-00015,SOL-0004,Recibida,22-10-24,APR-001,Observación menor
+LOG-00016,SOL-0004,En Validación,24-10-24,APR-003,
+LOG-00017,SOL-0004,En Revisión Calidad,28-10-24,APR-003,Observación menor
+LOG-00018,SOL-0004,En Aprobación,31-10-24,APR-003,Aprobado sin observaciones
+LOG-00019,SOL-0004,Cerrada,30-10-24,APR-004,Observación menor
+LOG-00020,SOL-0005,Recibida,24-03-24,APR-002,
+LOG-00021,SOL-0005,En Validación,26-03-24,APR-004,Observación menor
+LOG-00022,SOL-0005,En Revisión Calidad,26-03-24,APR-004,
+LOG-00023,SOL-0005,En Aprobación,30-03-24,APR-001,Pendiente documentación
+LOG-00024,SOL-0005,Cerrada,05-04-24,APR-002,Aprobado sin observaciones
+LOG-00025,SOL-0006,Recibida,23-11-24,APR-002,
+LOG-00026,SOL-0006,En Validación,25-11-24,APR-003,Observación menor
+LOG-00027,SOL-0006,En Revisión Calidad,29-11-24,APR-001,Aprobado sin observaciones
+LOG-00028,SOL-0006,En Aprobación,29-11-24,APR-002,
+LOG-00029,SOL-0006,Cerrada,27-11-24,APR-004,Aprobado sin observaciones
+LOG-00030,SOL-0007,Recibida,01-12-24,APR-003,
+LOG-00031,SOL-0007,En Validación,04-12-24,APR-002,Pendiente documentación
+LOG-00032,SOL-0007,En Revisión Calidad,05-12-24,APR-003,
+LOG-00033,SOL-0007,En Aprobación,10-12-24,APR-003,
+LOG-00034,SOL-0007,Cerrada,13-12-24,APR-002,Pendiente documentación
+LOG-00035,SOL-0008,Recibida,04-07-24,APR-002,
+LOG-00036,SOL-0008,En Validación,07-07-24,APR-002,
+LOG-00037,SOL-0008,En Revisión Calidad,06-07-24,APR-002,
+LOG-00038,SOL-0008,En Aprobación,07-07-24,APR-003,
+LOG-00039,SOL-0009,Recibida,14-07-24,APR-001,
+LOG-00040,SOL-0009,En Validación,17-07-24,APR-004,Observación menor
+LOG-00041,SOL-0009,En Revisión Calidad,16-07-24,APR-001,Pendiente documentación
+LOG-00042,SOL-0009,En Aprobación,20-07-24,APR-003,Pendiente documentación
+LOG-00043,SOL-0010,Recibida,10-08-24,APR-003,Pendiente documentación
+LOG-00044,SOL-0010,En Validación,11-08-24,APR-003,Pendiente documentación
+LOG-00045,SOL-0010,En Revisión Calidad,12-08-24,APR-002,
+LOG-00046,SOL-0010,En Aprobación,19-08-24,APR-004,Pendiente documentación
+LOG-00047,SOL-0011,Recibida,19-03-24,APR-001,Observación menor
+LOG-00048,SOL-0011,En Validación,21-03-24,APR-004,Aprobado sin observaciones
+LOG-00049,SOL-0011,En Revisión Calidad,21-03-24,APR-004,
+LOG-00050,SOL-0011,En Aprobación,28-03-24,APR-004,
+LOG-00051,SOL-0012,Recibida,02-05-24,APR-001,
+LOG-00052,SOL-0012,En Validación,05-05-24,APR-002,Pendiente documentación
+LOG-00053,SOL-0012,En Revisión Calidad,08-05-24,APR-001,
+LOG-00054,SOL-0012,En Aprobación,08-05-24,APR-003,
+LOG-00055,SOL-0012,Cerrada,14-05-24,APR-003,
+LOG-00056,SOL-0013,Recibida,15-05-24,APR-004,Observación menor
+LOG-00057,SOL-0013,En Validación,17-05-24,APR-003,
+LOG-00058,SOL-0013,En Revisión Calidad,19-05-24,APR-004,
+LOG-00059,SOL-0013,En Aprobación,21-05-24,APR-003,
+LOG-00060,SOL-0013,Cerrada,23-05-24,APR-003,Pendiente documentación
+LOG-00061,SOL-0014,Recibida,25-04-24,APR-002,Observación menor
+LOG-00062,SOL-0014,En Validación,28-04-24,APR-002,
+LOG-00063,SOL-0014,En Revisión Calidad,01-05-24,APR-003,
+LOG-00064,SOL-0014,En Aprobación,04-05-24,APR-004,Pendiente documentación
+LOG-00065,SOL-0015,Recibida,04-02-24,APR-002,Aprobado sin observaciones
+LOG-00066,SOL-0015,En Validación,05-02-24,APR-004,
+LOG-00067,SOL-0015,En Revisión Calidad,06-02-24,APR-004,Pendiente documentación
+LOG-00068,SOL-0015,En Aprobación,07-02-24,APR-003,Pendiente documentación
+LOG-00069,SOL-0015,Cerrada,12-02-24,APR-003,Observación menor
+LOG-00070,SOL-0016,Recibida,30-08-24,APR-001,Pendiente documentación
+LOG-00071,SOL-0016,En Validación,31-08-24,APR-002,
+LOG-00072,SOL-0016,En Revisión Calidad,01-09-24,APR-003,Pendiente documentación
+LOG-00073,SOL-0016,En Aprobación,08-09-24,APR-001,Pendiente documentación
+LOG-00074,SOL-0017,Recibida,01-02-24,APR-003,
+LOG-00075,SOL-0017,En Validación,03-02-24,APR-003,Observación menor
+LOG-00076,SOL-0017,En Revisión Calidad,07-02-24,APR-003,
+LOG-00077,SOL-0017,En Aprobación,04-02-24,APR-004,
+LOG-00078,SOL-0017,Cerrada,09-02-24,APR-002,Observación menor
+LOG-00079,SOL-0018,Recibida,07-05-24,APR-002,
+LOG-00080,SOL-0018,En Validación,09-05-24,APR-003,Aprobado sin observaciones
+LOG-00081,SOL-0018,En Revisión Calidad,13-05-24,APR-004,Aprobado sin observaciones
+LOG-00082,SOL-0018,En Aprobación,13-05-24,APR-001,Pendiente documentación
+LOG-00083,SOL-0018,Cerrada,19-05-24,APR-003,Pendiente documentación
+LOG-00084,SOL-0019,Recibida,03-09-24,APR-002,
+LOG-00085,SOL-0019,En Validación,06-09-24,APR-003,Pendiente documentación
+LOG-00086,SOL-0019,En Revisión Calidad,09-09-24,APR-004,
+LOG-00087,SOL-0019,En Aprobación,06-09-24,APR-002,
+LOG-00088,SOL-0019,Cerrada,07-09-24,APR-003,
+LOG-00089,SOL-0020,Recibida,07-04-24,APR-003,Aprobado sin observaciones
+LOG-00090,SOL-0020,En Validación,09-04-24,APR-004,
+LOG-00091,SOL-0020,En Revisión Calidad,11-04-24,APR-003,Aprobado sin observaciones
+LOG-00092,SOL-0020,En Aprobación,16-04-24,APR-004,Pendiente documentación
+LOG-00093,SOL-0020,Cerrada,11-04-24,APR-002,
+LOG-00094,SOL-0021,Recibida,17-09-24,APR-002,Aprobado sin observaciones
+LOG-00095,SOL-0021,En Validación,19-09-24,APR-001,
+LOG-00096,SOL-0021,En Revisión Calidad,19-09-24,APR-004,
+LOG-00097,SOL-0021,En Aprobación,20-09-24,APR-001,Pendiente documentación
+LOG-00098,SOL-0022,Recibida,02-08-24,APR-001,
+LOG-00099,SOL-0022,En Validación,04-08-24,APR-001,
+LOG-00100,SOL-0022,En Revisión Calidad,06-08-24,APR-002,
+LOG-00101,SOL-0022,En Aprobación,11-08-24,APR-004,
+LOG-00102,SOL-0023,Recibida,10-06-24,APR-002,Aprobado sin observaciones
+LOG-00103,SOL-0023,En Validación,12-06-24,APR-004,Aprobado sin observaciones
+LOG-00104,SOL-0023,En Revisión Calidad,12-06-24,APR-002,Observación menor
+LOG-00105,SOL-0023,En Aprobación,13-06-24,APR-001,
+LOG-00106,SOL-0023,Cerrada,22-06-24,APR-003,
+LOG-00107,SOL-0024,Recibida,08-07-24,APR-004,Observación menor
+LOG-00108,SOL-0024,En Validación,10-07-24,APR-004,
+LOG-00109,SOL-0024,En Revisión Calidad,14-07-24,APR-002,Observación menor
+LOG-00110,SOL-0024,En Aprobación,17-07-24,APR-004,Aprobado sin observaciones
+LOG-00111,SOL-0024,Cerrada,20-07-24,APR-004,Observación menor
+LOG-00112,SOL-0025,Recibida,29-02-24,APR-003,
+LOG-00113,SOL-0025,En Validación,02-03-24,APR-002,
+LOG-00114,SOL-0025,En Revisión Calidad,04-03-24,APR-003,
+LOG-00115,SOL-0025,En Aprobación,06-03-24,APR-003,
+LOG-00116,SOL-0026,Recibida,17-02-24,APR-001,
+LOG-00117,SOL-0026,En Validación,20-02-24,APR-002,
+LOG-00118,SOL-0026,En Revisión Calidad,21-02-24,APR-004,Observación menor
+LOG-00119,SOL-0026,En Aprobación,20-02-24,APR-004,Pendiente documentación
+LOG-00120,SOL-0027,Recibida,27-02-24,APR-001,Pendiente documentación
+LOG-00121,SOL-0027,En Validación,29-02-24,APR-002,
+LOG-00122,SOL-0027,En Revisión Calidad,04-03-24,APR-003,
+LOG-00123,SOL-0027,En Aprobación,04-03-24,APR-004,Pendiente documentación
+LOG-00124,SOL-0028,Recibida,02-07-24,APR-002,Aprobado sin observaciones
+LOG-00125,SOL-0028,En Validación,05-07-24,APR-004,Pendiente documentación
+LOG-00126,SOL-0028,En Revisión Calidad,04-07-24,APR-003,
+LOG-00127,SOL-0028,En Aprobación,08-07-24,APR-002,Observación menor
+LOG-00128,SOL-0028,Cerrada,14-07-24,APR-003,
+LOG-00129,SOL-0029,Recibida,19-06-24,APR-003,Pendiente documentación
+LOG-00130,SOL-0029,En Validación,20-06-24,APR-001,
+LOG-00131,SOL-0029,En Revisión Calidad,21-06-24,APR-003,
+LOG-00132,SOL-0029,En Aprobación,28-06-24,APR-004,Observación menor
+LOG-00133,SOL-0029,Cerrada,27-06-24,APR-003,Aprobado sin observaciones
+LOG-00134,SOL-0030,Recibida,26-04-24,APR-004,
+LOG-00135,SOL-0030,En Validación,28-04-24,APR-001,
+LOG-00136,SOL-0030,En Revisión Calidad,28-04-24,APR-001,
+LOG-00137,SOL-0030,En Aprobación,29-04-24,APR-003,
+LOG-00138,SOL-0030,Cerrada,30-04-24,APR-004,Aprobado sin observaciones
+LOG-00139,SOL-0031,Recibida,15-01-24,APR-002,
+LOG-00140,SOL-0031,En Validación,16-01-24,APR-001,Pendiente documentación
+LOG-00141,SOL-0031,En Revisión Calidad,17-01-24,APR-003,Pendiente documentación
+LOG-00142,SOL-0031,En Aprobación,21-01-24,APR-004,
+LOG-00143,SOL-0032,Recibida,11-08-24,APR-001,
+LOG-00144,SOL-0032,En Validación,12-08-24,APR-002,
+LOG-00145,SOL-0032,En Revisión Calidad,15-08-24,APR-004,
+LOG-00146,SOL-0032,En Aprobación,20-08-24,APR-004,
+LOG-00147,SOL-0033,Recibida,08-08-24,APR-003,Pendiente documentación
+LOG-00148,SOL-0033,En Validación,09-08-24,APR-001,Aprobado sin observaciones
+LOG-00149,SOL-0033,En Revisión Calidad,10-08-24,APR-004,Pendiente documentación
+LOG-00150,SOL-0033,En Aprobación,11-08-24,APR-001,
+LOG-00151,SOL-0034,Recibida,22-12-24,APR-001,Observación menor
+LOG-00152,SOL-0034,En Validación,25-12-24,APR-002,Pendiente documentación
+LOG-00153,SOL-0034,En Revisión Calidad,26-12-24,APR-003,
+LOG-00154,SOL-0034,En Aprobación,25-12-24,APR-001,Aprobado sin observaciones
+LOG-00155,SOL-0035,Recibida,26-05-24,APR-001,
+LOG-00156,SOL-0035,En Validación,28-05-24,APR-003,
+LOG-00157,SOL-0035,En Revisión Calidad,30-05-24,APR-001,Aprobado sin observaciones
+LOG-00158,SOL-0035,En Aprobación,29-05-24,APR-001,
+LOG-00159,SOL-0035,Cerrada,07-06-24,APR-004,
+LOG-00160,SOL-0036,Recibida,20-09-24,APR-002,
+LOG-00161,SOL-0036,En Validación,23-09-24,APR-001,Pendiente documentación
+LOG-00162,SOL-0036,En Revisión Calidad,22-09-24,APR-001,
+LOG-00163,SOL-0036,En Aprobación,29-09-24,APR-004,Aprobado sin observaciones
+LOG-00164,SOL-0037,Recibida,05-05-24,APR-002,
+LOG-00165,SOL-0037,En Validación,06-05-24,APR-002,
+LOG-00166,SOL-0037,En Revisión Calidad,09-05-24,APR-001,Aprobado sin observaciones
+LOG-00167,SOL-0037,En Aprobación,14-05-24,APR-003,Aprobado sin observaciones
+LOG-00168,SOL-0037,Cerrada,09-05-24,APR-001,
+LOG-00169,SOL-0038,Recibida,05-08-24,APR-002,Aprobado sin observaciones
+LOG-00170,SOL-0038,En Validación,08-08-24,APR-001,
+LOG-00171,SOL-0038,En Revisión Calidad,09-08-24,APR-002,
+LOG-00172,SOL-0038,En Aprobación,14-08-24,APR-003,Pendiente documentación
+LOG-00173,SOL-0038,Cerrada,17-08-24,APR-002,
+LOG-00174,SOL-0039,Recibida,09-11-24,APR-004,
+LOG-00175,SOL-0039,En Validación,12-11-24,APR-002,
+LOG-00176,SOL-0039,En Revisión Calidad,11-11-24,APR-004,Aprobado sin observaciones
+LOG-00177,SOL-0039,En Aprobación,15-11-24,APR-003,Observación menor
+LOG-00178,SOL-0039,Cerrada,21-11-24,APR-004,
+LOG-00179,SOL-0040,Recibida,16-11-24,APR-002,Observación menor
+LOG-00180,SOL-0040,En Validación,18-11-24,APR-003,Aprobado sin observaciones
+LOG-00181,SOL-0040,En Revisión Calidad,20-11-24,APR-003,Observación menor
+LOG-00182,SOL-0040,En Aprobación,25-11-24,APR-002,
+LOG-00183,SOL-0040,Cerrada,28-11-24,APR-002,Pendiente documentación
+LOG-00184,SOL-0041,Recibida,21-12-24,APR-003,Observación menor
+LOG-00185,SOL-0041,En Validación,23-12-24,APR-004,
+LOG-00186,SOL-0041,En Revisión Calidad,27-12-24,APR-004,Aprobado sin observaciones
+LOG-00187,SOL-0041,En Aprobación,24-12-24,APR-001,Observación menor
+LOG-00188,SOL-0041,Cerrada,29-12-24,APR-002,
+LOG-00189,SOL-0042,Recibida,21-10-24,APR-001,Aprobado sin observaciones
+LOG-00190,SOL-0042,En Validación,24-10-24,APR-004,
+LOG-00191,SOL-0042,En Revisión Calidad,27-10-24,APR-004,Observación menor
+LOG-00192,SOL-0042,En Aprobación,24-10-24,APR-003,
+LOG-00193,SOL-0042,Cerrada,29-10-24,APR-003,
+LOG-00194,SOL-0043,Recibida,05-09-24,APR-001,
+LOG-00195,SOL-0043,En Validación,06-09-24,APR-002,
+LOG-00196,SOL-0043,En Revisión Calidad,07-09-24,APR-001,Pendiente documentación
+LOG-00197,SOL-0043,En Aprobación,08-09-24,APR-001,
+LOG-00198,SOL-0043,Cerrada,17-09-24,APR-004,Aprobado sin observaciones
+LOG-00199,SOL-0044,Recibida,25-11-24,APR-003,
+LOG-00200,SOL-0044,En Validación,27-11-24,APR-002,Observación menor
+LOG-00201,SOL-0044,En Revisión Calidad,01-12-24,APR-001,
+LOG-00202,SOL-0044,En Aprobación,28-11-24,APR-004,
+LOG-00203,SOL-0044,Cerrada,03-12-24,APR-001,
+LOG-00204,SOL-0045,Recibida,03-08-24,APR-004,
+LOG-00205,SOL-0045,En Validación,06-08-24,APR-001,Observación menor
+LOG-00206,SOL-0045,En Revisión Calidad,07-08-24,APR-001,Aprobado sin observaciones
+LOG-00207,SOL-0045,En Aprobación,06-08-24,APR-003,
+LOG-00208,SOL-0045,Cerrada,07-08-24,APR-001,
+LOG-00209,SOL-0046,Recibida,12-04-24,APR-002,Observación menor
+LOG-00210,SOL-0046,En Validación,14-04-24,APR-002,
+LOG-00211,SOL-0046,En Revisión Calidad,18-04-24,APR-002,Observación menor
+LOG-00212,SOL-0046,En Aprobación,21-04-24,APR-002,Observación menor
+LOG-00213,SOL-0047,Recibida,06-11-24,APR-004,Aprobado sin observaciones
+LOG-00214,SOL-0047,En Validación,07-11-24,APR-003,Aprobado sin observaciones
+LOG-00215,SOL-0047,En Revisión Calidad,10-11-24,APR-004,
+LOG-00216,SOL-0047,En Aprobación,09-11-24,APR-002,Observación menor
+LOG-00217,SOL-0048,Recibida,11-04-24,APR-003,Aprobado sin observaciones
+LOG-00218,SOL-0048,En Validación,12-04-24,APR-004,
+LOG-00219,SOL-0048,En Revisión Calidad,15-04-24,APR-003,
+LOG-00220,SOL-0048,En Aprobación,17-04-24,APR-004,Aprobado sin observaciones
+LOG-00221,SOL-0048,Cerrada,19-04-24,APR-002,Observación menor
+LOG-00222,SOL-0049,Recibida,05-02-24,APR-002,Pendiente documentación
+LOG-00223,SOL-0049,En Validación,08-02-24,APR-003,
+LOG-00224,SOL-0049,En Revisión Calidad,09-02-24,APR-004,Pendiente documentación
+LOG-00225,SOL-0049,En Aprobación,08-02-24,APR-001,
+LOG-00226,SOL-0049,Cerrada,17-02-24,APR-001,Observación menor
+LOG-00227,SOL-0050,Recibida,31-03-24,APR-003,
+LOG-00228,SOL-0050,En Validación,02-04-24,APR-002,
+LOG-00229,SOL-0050,En Revisión Calidad,04-04-24,APR-001,Aprobado sin observaciones
+LOG-00230,SOL-0050,En Aprobación,06-04-24,APR-002,
+LOG-00231,SOL-0051,Recibida,18-08-24,APR-004,
+LOG-00232,SOL-0051,En Validación,19-08-24,APR-002,
+LOG-00233,SOL-0051,En Revisión Calidad,22-08-24,APR-002,
+LOG-00234,SOL-0051,En Aprobación,24-08-24,APR-003,
+LOG-00235,SOL-0051,Cerrada,30-08-24,APR-004,Observación menor
+LOG-00236,SOL-0052,Recibida,23-06-24,APR-001,Aprobado sin observaciones
+LOG-00237,SOL-0052,En Validación,25-06-24,APR-004,
+LOG-00238,SOL-0052,En Revisión Calidad,27-06-24,APR-001,Observación menor
+LOG-00239,SOL-0052,En Aprobación,02-07-24,APR-003,
+LOG-00240,SOL-0052,Cerrada,05-07-24,APR-004,
+LOG-00241,SOL-0053,Recibida,09-01-24,APR-003,
+LOG-00242,SOL-0053,En Validación,11-01-24,APR-004,
+LOG-00243,SOL-0053,En Revisión Calidad,11-01-24,APR-001,Aprobado sin observaciones
+LOG-00244,SOL-0053,En Aprobación,18-01-24,APR-004,
+LOG-00245,SOL-0054,Recibida,08-10-24,APR-001,
+LOG-00246,SOL-0054,En Validación,11-10-24,APR-002,
+LOG-00247,SOL-0054,En Revisión Calidad,14-10-24,APR-002,
+LOG-00248,SOL-0054,En Aprobación,11-10-24,APR-004,Pendiente documentación
+LOG-00249,SOL-0055,Recibida,20-04-24,APR-001,
+LOG-00250,SOL-0055,En Validación,22-04-24,APR-003,Pendiente documentación
+LOG-00251,SOL-0055,En Revisión Calidad,22-04-24,APR-002,
+LOG-00252,SOL-0055,En Aprobación,23-04-24,APR-004,Observación menor
+LOG-00253,SOL-0055,Cerrada,02-05-24,APR-001,Observación menor
+LOG-00254,SOL-0056,Recibida,28-12-24,APR-003,
+LOG-00255,SOL-0056,En Validación,30-12-24,APR-004,Aprobado sin observaciones
+LOG-00256,SOL-0056,En Revisión Calidad,30-12-24,APR-002,Pendiente documentación
+LOG-00257,SOL-0056,En Aprobación,06-01-25,APR-002,Pendiente documentación
+LOG-00258,SOL-0056,Cerrada,05-01-25,APR-002,Observación menor
+LOG-00259,SOL-0057,Recibida,02-09-24,APR-002,
+LOG-00260,SOL-0057,En Validación,03-09-24,APR-003,Pendiente documentación
+LOG-00261,SOL-0057,En Revisión Calidad,06-09-24,APR-001,
+LOG-00262,SOL-0057,En Aprobación,11-09-24,APR-004,Pendiente documentación
+LOG-00263,SOL-0057,Cerrada,10-09-24,APR-003,
+LOG-00264,SOL-0058,Recibida,18-03-24,APR-003,Observación menor
+LOG-00265,SOL-0058,En Validación,21-03-24,APR-001,
+LOG-00266,SOL-0058,En Revisión Calidad,20-03-24,APR-003,Observación menor
+LOG-00267,SOL-0058,En Aprobación,24-03-24,APR-002,Pendiente documentación
+LOG-00268,SOL-0058,Cerrada,22-03-24,APR-002,
+LOG-00269,SOL-0059,Recibida,01-06-24,APR-003,
+LOG-00270,SOL-0059,En Validación,04-06-24,APR-001,
+LOG-00271,SOL-0059,En Revisión Calidad,07-06-24,APR-001,
+LOG-00272,SOL-0059,En Aprobación,10-06-24,APR-002,
+LOG-00273,SOL-0060,Recibida,02-05-24,APR-003,Aprobado sin observaciones
+LOG-00274,SOL-0060,En Validación,03-05-24,APR-003,Pendiente documentación
+LOG-00275,SOL-0060,En Revisión Calidad,06-05-24,APR-001,
+LOG-00276,SOL-0060,En Aprobación,05-05-24,APR-002,
+LOG-00277,SOL-0060,Cerrada,14-05-24,APR-003,Observación menor
+LOG-00278,SOL-0061,Recibida,25-12-24,APR-002,Aprobado sin observaciones
+LOG-00279,SOL-0061,En Validación,28-12-24,APR-001,Pendiente documentación
+LOG-00280,SOL-0061,En Revisión Calidad,31-12-24,APR-001,
+LOG-00281,SOL-0061,En Aprobación,28-12-24,APR-001,
+LOG-00282,SOL-0061,Cerrada,29-12-24,APR-003,
+LOG-00283,SOL-0062,Recibida,25-03-24,APR-001,
+LOG-00284,SOL-0062,En Validación,27-03-24,APR-003,Aprobado sin observaciones
+LOG-00285,SOL-0062,En Revisión Calidad,31-03-24,APR-003,
+LOG-00286,SOL-0062,En Aprobación,28-03-24,APR-003,Aprobado sin observaciones
+LOG-00287,SOL-0062,Cerrada,02-04-24,APR-002,Pendiente documentación
+LOG-00288,SOL-0063,Recibida,14-06-24,APR-001,
+LOG-00289,SOL-0063,En Validación,16-06-24,APR-001,
+LOG-00290,SOL-0063,En Revisión Calidad,16-06-24,APR-004,Observación menor
+LOG-00291,SOL-0063,En Aprobación,23-06-24,APR-001,
+LOG-00292,SOL-0063,Cerrada,18-06-24,APR-003,
+LOG-00293,SOL-0064,Recibida,28-08-24,APR-004,Aprobado sin observaciones
+LOG-00294,SOL-0064,En Validación,29-08-24,APR-001,
+LOG-00295,SOL-0064,En Revisión Calidad,03-09-24,APR-003,
+LOG-00296,SOL-0064,En Aprobación,06-09-24,APR-003,
+LOG-00297,SOL-0065,Recibida,13-06-24,APR-003,
+LOG-00298,SOL-0065,En Validación,16-06-24,APR-003,Pendiente documentación
+LOG-00299,SOL-0065,En Revisión Calidad,15-06-24,APR-003,
+LOG-00300,SOL-0065,En Aprobación,16-06-24,APR-003,Pendiente documentación
+LOG-00301,SOL-0065,Cerrada,25-06-24,APR-002,
+LOG-00302,SOL-0066,Recibida,14-06-24,APR-004,Observación menor
+LOG-00303,SOL-0066,En Validación,17-06-24,APR-002,Pendiente documentación
+LOG-00304,SOL-0066,En Revisión Calidad,16-06-24,APR-002,Pendiente documentación
+LOG-00305,SOL-0066,En Aprobación,20-06-24,APR-003,Pendiente documentación
+LOG-00306,SOL-0066,Cerrada,26-06-24,APR-002,
+LOG-00307,SOL-0067,Recibida,14-04-24,APR-002,Observación menor
+LOG-00308,SOL-0067,En Validación,17-04-24,APR-002,
+LOG-00309,SOL-0067,En Revisión Calidad,18-04-24,APR-002,Pendiente documentación
+LOG-00310,SOL-0067,En Aprobación,17-04-24,APR-002,
+LOG-00311,SOL-0068,Recibida,08-06-24,APR-001,
+LOG-00312,SOL-0068,En Validación,10-06-24,APR-002,Aprobado sin observaciones
+LOG-00313,SOL-0068,En Revisión Calidad,10-06-24,APR-003,Pendiente documentación
+LOG-00314,SOL-0068,En Aprobación,14-06-24,APR-003,Pendiente documentación
+LOG-00315,SOL-0069,Recibida,17-09-24,APR-003,
+LOG-00316,SOL-0069,En Validación,18-09-24,APR-001,
+LOG-00317,SOL-0069,En Revisión Calidad,19-09-24,APR-001,Observación menor
+LOG-00318,SOL-0069,En Aprobación,26-09-24,APR-003,Observación menor
+LOG-00319,SOL-0070,Recibida,21-05-24,APR-002,Observación menor
+LOG-00320,SOL-0070,En Validación,22-05-24,APR-002,Aprobado sin observaciones
+LOG-00321,SOL-0070,En Revisión Calidad,23-05-24,APR-003,
+LOG-00322,SOL-0070,En Aprobación,30-05-24,APR-004,
+LOG-00323,SOL-0070,Cerrada,02-06-24,APR-004,Aprobado sin observaciones
+LOG-00324,SOL-0071,Recibida,19-06-24,APR-003,
+LOG-00325,SOL-0071,En Validación,21-06-24,APR-004,Pendiente documentación
+LOG-00326,SOL-0071,En Revisión Calidad,21-06-24,APR-002,
+LOG-00327,SOL-0071,En Aprobación,22-06-24,APR-001,Pendiente documentación
+LOG-00328,SOL-0071,Cerrada,23-06-24,APR-003,Pendiente documentación
+LOG-00329,SOL-0072,Recibida,30-08-24,APR-002,
+LOG-00330,SOL-0072,En Validación,31-08-24,APR-002,Pendiente documentación
+LOG-00331,SOL-0072,En Revisión Calidad,05-09-24,APR-004,Aprobado sin observaciones
+LOG-00332,SOL-0072,En Aprobación,05-09-24,APR-004,
+LOG-00333,SOL-0072,Cerrada,07-09-24,APR-004,
+LOG-00334,SOL-0073,Recibida,08-01-24,APR-004,Aprobado sin observaciones
+LOG-00335,SOL-0073,En Validación,10-01-24,APR-004,Observación menor
+LOG-00336,SOL-0073,En Revisión Calidad,14-01-24,APR-001,Observación menor
+LOG-00337,SOL-0073,En Aprobación,11-01-24,APR-004,Pendiente documentación
+LOG-00338,SOL-0073,Cerrada,12-01-24,APR-002,Observación menor
+LOG-00339,SOL-0074,Recibida,11-06-24,APR-004,Aprobado sin observaciones
+LOG-00340,SOL-0074,En Validación,12-06-24,APR-004,Observación menor
+LOG-00341,SOL-0074,En Revisión Calidad,17-06-24,APR-001,
+LOG-00342,SOL-0074,En Aprobación,17-06-24,APR-004,Pendiente documentación
+LOG-00343,SOL-0075,Recibida,20-11-24,APR-003,Pendiente documentación
+LOG-00344,SOL-0075,En Validación,21-11-24,APR-004,
+LOG-00345,SOL-0075,En Revisión Calidad,26-11-24,APR-001,Aprobado sin observaciones
+LOG-00346,SOL-0075,En Aprobación,29-11-24,APR-002,Pendiente documentación
+LOG-00347,SOL-0076,Recibida,08-08-24,APR-004,
+LOG-00348,SOL-0076,En Validación,11-08-24,APR-001,
+LOG-00349,SOL-0076,En Revisión Calidad,14-08-24,APR-002,Pendiente documentación
+LOG-00350,SOL-0076,En Aprobación,14-08-24,APR-003,Pendiente documentación
+LOG-00351,SOL-0076,Cerrada,12-08-24,APR-002,Pendiente documentación
+LOG-00352,SOL-0077,Recibida,25-10-24,APR-002,Pendiente documentación
+LOG-00353,SOL-0077,En Validación,26-10-24,APR-003,
+LOG-00354,SOL-0077,En Revisión Calidad,31-10-24,APR-002,Aprobado sin observaciones
+LOG-00355,SOL-0077,En Aprobación,03-11-24,APR-001,
+LOG-00356,SOL-0078,Recibida,14-08-24,APR-004,Aprobado sin observaciones
+LOG-00357,SOL-0078,En Validación,16-08-24,APR-001,Observación menor
+LOG-00358,SOL-0078,En Revisión Calidad,20-08-24,APR-004,Aprobado sin observaciones
+LOG-00359,SOL-0078,En Aprobación,23-08-24,APR-002,Pendiente documentación
+LOG-00360,SOL-0079,Recibida,14-07-24,APR-004,
+LOG-00361,SOL-0079,En Validación,15-07-24,APR-003,Observación menor
+LOG-00362,SOL-0079,En Revisión Calidad,20-07-24,APR-002,
+LOG-00363,SOL-0079,En Aprobación,17-07-24,APR-002,Aprobado sin observaciones
+LOG-00364,SOL-0079,Cerrada,18-07-24,APR-004,
+LOG-00365,SOL-0080,Recibida,26-05-24,APR-004,
+LOG-00366,SOL-0080,En Validación,29-05-24,APR-002,
+LOG-00367,SOL-0080,En Revisión Calidad,28-05-24,APR-002,
+LOG-00368,SOL-0080,En Aprobación,04-06-24,APR-003,
+LOG-00369,SOL-0081,Recibida,08-03-24,APR-004,Pendiente documentación
+LOG-00370,SOL-0081,En Validación,11-03-24,APR-001,Observación menor
+LOG-00371,SOL-0081,En Revisión Calidad,12-03-24,APR-002,
+LOG-00372,SOL-0081,En Aprobación,17-03-24,APR-004,Pendiente documentación
+LOG-00373,SOL-0081,Cerrada,16-03-24,APR-004,
+LOG-00374,SOL-0082,Recibida,22-06-24,APR-001,
+LOG-00375,SOL-0082,En Validación,25-06-24,APR-003,Observación menor
+LOG-00376,SOL-0082,En Revisión Calidad,28-06-24,APR-002,
+LOG-00377,SOL-0082,En Aprobación,25-06-24,APR-002,
+LOG-00378,SOL-0082,Cerrada,04-07-24,APR-003,
+LOG-00379,SOL-0083,Recibida,01-10-24,APR-001,Aprobado sin observaciones
+LOG-00380,SOL-0083,En Validación,04-10-24,APR-003,
+LOG-00381,SOL-0083,En Revisión Calidad,03-10-24,APR-001,
+LOG-00382,SOL-0083,En Aprobación,07-10-24,APR-002,
+LOG-00383,SOL-0083,Cerrada,13-10-24,APR-003,Observación menor
+LOG-00384,SOL-0084,Recibida,27-11-24,APR-002,Pendiente documentación
+LOG-00385,SOL-0084,En Validación,30-11-24,APR-003,
+LOG-00386,SOL-0084,En Revisión Calidad,29-11-24,APR-003,
+LOG-00387,SOL-0084,En Aprobación,03-12-24,APR-004,
+LOG-00388,SOL-0084,Cerrada,05-12-24,APR-001,
+LOG-00389,SOL-0085,Recibida,02-10-24,APR-002,
+LOG-00390,SOL-0085,En Validación,05-10-24,APR-003,
+LOG-00391,SOL-0085,En Revisión Calidad,08-10-24,APR-004,Observación menor
+LOG-00392,SOL-0085,En Aprobación,05-10-24,APR-002,Observación menor
+LOG-00393,SOL-0085,Cerrada,06-10-24,APR-001,Observación menor
+LOG-00394,SOL-0086,Recibida,17-01-24,APR-001,Pendiente documentación
+LOG-00395,SOL-0086,En Validación,20-01-24,APR-003,Pendiente documentación
+LOG-00396,SOL-0086,En Revisión Calidad,23-01-24,APR-003,
+LOG-00397,SOL-0086,En Aprobación,26-01-24,APR-003,
+LOG-00398,SOL-0086,Cerrada,29-01-24,APR-004,Observación menor
+LOG-00399,SOL-0087,Recibida,03-03-24,APR-004,Pendiente documentación
+LOG-00400,SOL-0087,En Validación,04-03-24,APR-002,Aprobado sin observaciones
+LOG-00401,SOL-0087,En Revisión Calidad,07-03-24,APR-002,
+LOG-00402,SOL-0087,En Aprobación,06-03-24,APR-001,Pendiente documentación
+LOG-00403,SOL-0087,Cerrada,15-03-24,APR-001,Aprobado sin observaciones
+LOG-00404,SOL-0088,Recibida,27-10-24,APR-004,Pendiente documentación
+LOG-00405,SOL-0088,En Validación,28-10-24,APR-003,
+LOG-00406,SOL-0088,En Revisión Calidad,02-11-24,APR-002,
+LOG-00407,SOL-0088,En Aprobación,05-11-24,APR-002,Aprobado sin observaciones
+LOG-00408,SOL-0089,Recibida,26-02-24,APR-003,
+LOG-00409,SOL-0089,En Validación,28-02-24,APR-003,Observación menor
+LOG-00410,SOL-0089,En Revisión Calidad,03-03-24,APR-003,
+LOG-00411,SOL-0089,En Aprobación,29-02-24,APR-003,
+LOG-00412,SOL-0089,Cerrada,05-03-24,APR-001,
+LOG-00413,SOL-0090,Recibida,05-03-24,APR-003,
+LOG-00414,SOL-0090,En Validación,08-03-24,APR-004,Pendiente documentación
+LOG-00415,SOL-0090,En Revisión Calidad,07-03-24,APR-002,Pendiente documentación
+LOG-00416,SOL-0090,En Aprobación,08-03-24,APR-004,Observación menor
+LOG-00417,SOL-0090,Cerrada,13-03-24,APR-004,Pendiente documentación
+LOG-00418,SOL-0091,Recibida,03-12-24,APR-001,Observación menor
+LOG-00419,SOL-0091,En Validación,05-12-24,APR-003,Observación menor
+LOG-00420,SOL-0091,En Revisión Calidad,09-12-24,APR-001,
+LOG-00421,SOL-0091,En Aprobación,12-12-24,APR-003,
+LOG-00422,SOL-0091,Cerrada,07-12-24,APR-002,
+LOG-00423,SOL-0092,Recibida,11-02-24,APR-003,Pendiente documentación
+LOG-00424,SOL-0092,En Validación,14-02-24,APR-002,Observación menor
+LOG-00425,SOL-0092,En Revisión Calidad,17-02-24,APR-004,
+LOG-00426,SOL-0092,En Aprobación,20-02-24,APR-001,
+LOG-00427,SOL-0092,Cerrada,23-02-24,APR-003,Aprobado sin observaciones
+LOG-00428,SOL-0093,Recibida,15-09-24,APR-003,Pendiente documentación
+LOG-00429,SOL-0093,En Validación,16-09-24,APR-004,
+LOG-00430,SOL-0093,En Revisión Calidad,19-09-24,APR-004,
+LOG-00431,SOL-0093,En Aprobación,18-09-24,APR-003,
+LOG-00432,SOL-0093,Cerrada,19-09-24,APR-003,
+LOG-00433,SOL-0094,Recibida,20-08-24,APR-001,Pendiente documentación
+LOG-00434,SOL-0094,En Validación,23-08-24,APR-001,Pendiente documentación
+LOG-00435,SOL-0094,En Revisión Calidad,26-08-24,APR-002,
+LOG-00436,SOL-0094,En Aprobación,26-08-24,APR-004,Aprobado sin observaciones
+LOG-00437,SOL-0094,Cerrada,01-09-24,APR-003,
+LOG-00438,SOL-0095,Recibida,13-02-24,APR-001,Observación menor
+LOG-00439,SOL-0095,En Validación,16-02-24,APR-002,
+LOG-00440,SOL-0095,En Revisión Calidad,19-02-24,APR-001,Pendiente documentación
+LOG-00441,SOL-0095,En Aprobación,19-02-24,APR-001,
+LOG-00442,SOL-0096,Recibida,29-07-24,APR-001,Aprobado sin observaciones
+LOG-00443,SOL-0096,En Validación,01-08-24,APR-001,
+LOG-00444,SOL-0096,En Revisión Calidad,02-08-24,APR-001,
+LOG-00445,SOL-0096,En Aprobación,07-08-24,APR-003,
+LOG-00446,SOL-0097,Recibida,02-12-24,APR-003,Aprobado sin observaciones
+LOG-00447,SOL-0097,En Validación,03-12-24,APR-003,
+LOG-00448,SOL-0097,En Revisión Calidad,04-12-24,APR-003,
+LOG-00449,SOL-0097,En Aprobación,11-12-24,APR-003,Pendiente documentación
+LOG-00450,SOL-0097,Cerrada,14-12-24,APR-001,
+LOG-00451,SOL-0098,Recibida,15-01-24,APR-002,
+LOG-00452,SOL-0098,En Validación,16-01-24,APR-001,Observación menor
+LOG-00453,SOL-0098,En Revisión Calidad,21-01-24,APR-001,
+LOG-00454,SOL-0098,En Aprobación,24-01-24,APR-003,Observación menor
+LOG-00455,SOL-0098,Cerrada,23-01-24,APR-003,
+LOG-00456,SOL-0099,Recibida,28-09-24,APR-003,Observación menor
+LOG-00457,SOL-0099,En Validación,29-09-24,APR-002,
+LOG-00458,SOL-0099,En Revisión Calidad,02-10-24,APR-003,Observación menor
+LOG-00459,SOL-0099,En Aprobación,04-10-24,APR-001,
+LOG-00460,SOL-0099,Cerrada,02-10-24,APR-004,Aprobado sin observaciones
+LOG-00461,SOL-0100,Recibida,11-12-24,APR-001,Pendiente documentación
+LOG-00462,SOL-0100,En Validación,12-12-24,APR-001,Pendiente documentación
+LOG-00463,SOL-0100,En Revisión Calidad,15-12-24,APR-002,Aprobado sin observaciones
+LOG-00464,SOL-0100,En Aprobación,20-12-24,APR-004,Observación menor
+LOG-00465,SOL-0100,Cerrada,19-12-24,APR-003,
+LOG-00466,SOL-0101,Recibida,26-02-24,APR-001,Pendiente documentación
+LOG-00467,SOL-0101,En Validación,29-02-24,APR-002,
+LOG-00468,SOL-0101,En Revisión Calidad,03-03-24,APR-004,
+LOG-00469,SOL-0101,En Aprobación,03-03-24,APR-003,Aprobado sin observaciones
+LOG-00470,SOL-0102,Recibida,11-03-24,APR-004,Pendiente documentación
+LOG-00471,SOL-0102,En Validación,12-03-24,APR-002,
+LOG-00472,SOL-0102,En Revisión Calidad,17-03-24,APR-003,
+LOG-00473,SOL-0102,En Aprobación,17-03-24,APR-002,Aprobado sin observaciones
+LOG-00474,SOL-0102,Cerrada,23-03-24,APR-003,
+LOG-00475,SOL-0103,Recibida,06-02-24,APR-004,
+LOG-00476,SOL-0103,En Validación,07-02-24,APR-004,
+LOG-00477,SOL-0103,En Revisión Calidad,10-02-24,APR-004,Pendiente documentación
+LOG-00478,SOL-0103,En Aprobación,09-02-24,APR-003,
+LOG-00479,SOL-0104,Recibida,28-02-24,APR-002,Observación menor
+LOG-00480,SOL-0104,En Validación,29-02-24,APR-004,Aprobado sin observaciones
+LOG-00481,SOL-0104,En Revisión Calidad,01-03-24,APR-003,Observación menor
+LOG-00482,SOL-0104,En Aprobación,08-03-24,APR-001,
+LOG-00483,SOL-0105,Recibida,11-08-24,APR-004,Pendiente documentación
+LOG-00484,SOL-0105,En Validación,14-08-24,APR-004,
+LOG-00485,SOL-0105,En Revisión Calidad,17-08-24,APR-002,Observación menor
+LOG-00486,SOL-0105,En Aprobación,14-08-24,APR-004,Pendiente documentación
+LOG-00487,SOL-0105,Cerrada,15-08-24,APR-003,
+LOG-00488,SOL-0106,Recibida,27-06-24,APR-004,Pendiente documentación
+LOG-00489,SOL-0106,En Validación,30-06-24,APR-003,Observación menor
+LOG-00490,SOL-0106,En Revisión Calidad,03-07-24,APR-002,
+LOG-00491,SOL-0106,En Aprobación,06-07-24,APR-001,Aprobado sin observaciones
+LOG-00492,SOL-0106,Cerrada,09-07-24,APR-004,
+LOG-00493,SOL-0107,Recibida,15-10-24,APR-004,
+LOG-00494,SOL-0107,En Validación,18-10-24,APR-001,Pendiente documentación
+LOG-00495,SOL-0107,En Revisión Calidad,17-10-24,APR-003,Pendiente documentación
+LOG-00496,SOL-0107,En Aprobación,18-10-24,APR-001,Aprobado sin observaciones
+LOG-00497,SOL-0107,Cerrada,27-10-24,APR-004,
+LOG-00498,SOL-0108,Recibida,20-05-24,APR-001,
+LOG-00499,SOL-0108,En Validación,21-05-24,APR-002,Observación menor
+LOG-00500,SOL-0108,En Revisión Calidad,26-05-24,APR-001,
+LOG-00501,SOL-0108,En Aprobación,29-05-24,APR-002,Pendiente documentación
+LOG-00502,SOL-0108,Cerrada,01-06-24,APR-003,Pendiente documentación
+LOG-00503,SOL-0109,Recibida,24-08-24,APR-004,
+LOG-00504,SOL-0109,En Validación,25-08-24,APR-003,
+LOG-00505,SOL-0109,En Revisión Calidad,30-08-24,APR-003,Pendiente documentación
+LOG-00506,SOL-0109,En Aprobación,02-09-24,APR-003,
+LOG-00507,SOL-0109,Cerrada,05-09-24,APR-001,Observación menor
+LOG-00508,SOL-0110,Recibida,31-12-24,APR-004,
+LOG-00509,SOL-0110,En Validación,02-01-25,APR-001,
+LOG-00510,SOL-0110,En Revisión Calidad,06-01-25,APR-001,
+LOG-00511,SOL-0110,En Aprobación,09-01-25,APR-003,
+LOG-00512,SOL-0110,Cerrada,08-01-25,APR-001,
+LOG-00513,SOL-0111,Recibida,28-07-24,APR-004,Aprobado sin observaciones
+LOG-00514,SOL-0111,En Validación,30-07-24,APR-004,Pendiente documentación
+LOG-00515,SOL-0111,En Revisión Calidad,01-08-24,APR-004,Observación menor
+LOG-00516,SOL-0111,En Aprobación,31-07-24,APR-002,Pendiente documentación
+LOG-00517,SOL-0111,Cerrada,01-08-24,APR-002,Observación menor
+LOG-00518,SOL-0112,Recibida,11-02-24,APR-003,Pendiente documentación
+LOG-00519,SOL-0112,En Validación,12-02-24,APR-003,Aprobado sin observaciones
+LOG-00520,SOL-0112,En Revisión Calidad,13-02-24,APR-002,
+LOG-00521,SOL-0112,En Aprobación,14-02-24,APR-001,
+LOG-00522,SOL-0112,Cerrada,23-02-24,APR-004,Aprobado sin observaciones
+LOG-00523,SOL-0113,Recibida,26-11-24,APR-002,
+LOG-00524,SOL-0113,En Validación,27-11-24,APR-004,Pendiente documentación
+LOG-00525,SOL-0113,En Revisión Calidad,02-12-24,APR-004,Observación menor
+LOG-00526,SOL-0113,En Aprobación,29-11-24,APR-004,Observación menor
+LOG-00527,SOL-0114,Recibida,20-03-24,APR-004,Pendiente documentación
+LOG-00528,SOL-0114,En Validación,22-03-24,APR-002,
+LOG-00529,SOL-0114,En Revisión Calidad,24-03-24,APR-001,Observación menor
+LOG-00530,SOL-0114,En Aprobación,26-03-24,APR-002,Aprobado sin observaciones
+LOG-00531,SOL-0114,Cerrada,01-04-24,APR-003,Pendiente documentación
+LOG-00532,SOL-0115,Recibida,12-08-24,APR-003,
+LOG-00533,SOL-0115,En Validación,13-08-24,APR-004,Aprobado sin observaciones
+LOG-00534,SOL-0115,En Revisión Calidad,16-08-24,APR-001,Observación menor
+LOG-00535,SOL-0115,En Aprobación,18-08-24,APR-001,
+LOG-00536,SOL-0115,Cerrada,24-08-24,APR-003,Pendiente documentación
+LOG-00537,SOL-0116,Recibida,28-08-24,APR-001,Observación menor
+LOG-00538,SOL-0116,En Validación,31-08-24,APR-001,
+LOG-00539,SOL-0116,En Revisión Calidad,01-09-24,APR-001,Aprobado sin observaciones
+LOG-00540,SOL-0116,En Aprobación,06-09-24,APR-003,Observación menor
+LOG-00541,SOL-0116,Cerrada,01-09-24,APR-003,Observación menor
+LOG-00542,SOL-0117,Recibida,27-01-24,APR-004,Pendiente documentación
+LOG-00543,SOL-0117,En Validación,30-01-24,APR-004,Observación menor
+LOG-00544,SOL-0117,En Revisión Calidad,02-02-24,APR-003,Pendiente documentación
+LOG-00545,SOL-0117,En Aprobación,02-02-24,APR-003,
+LOG-00546,SOL-0117,Cerrada,31-01-24,APR-001,Aprobado sin observaciones
+LOG-00547,SOL-0118,Recibida,19-09-24,APR-003,Aprobado sin observaciones
+LOG-00548,SOL-0118,En Validación,22-09-24,APR-003,
+LOG-00549,SOL-0118,En Revisión Calidad,25-09-24,APR-004,Observación menor
+LOG-00550,SOL-0118,En Aprobación,22-09-24,APR-001,Aprobado sin observaciones
+LOG-00551,SOL-0118,Cerrada,27-09-24,APR-001,
+LOG-00552,SOL-0119,Recibida,16-07-24,APR-001,
+LOG-00553,SOL-0119,En Validación,19-07-24,APR-001,
+LOG-00554,SOL-0119,En Revisión Calidad,20-07-24,APR-002,Observación menor
+LOG-00555,SOL-0119,En Aprobación,22-07-24,APR-003,
+LOG-00556,SOL-0119,Cerrada,20-07-24,APR-001,Observación menor
+LOG-00557,SOL-0120,Recibida,27-12-24,APR-002,Aprobado sin observaciones
+LOG-00558,SOL-0120,En Validación,29-12-24,APR-003,
+LOG-00559,SOL-0120,En Revisión Calidad,31-12-24,APR-002,Pendiente documentación
+LOG-00560,SOL-0120,En Aprobación,30-12-24,APR-001,
+LOG-00561,SOL-0120,Cerrada,31-12-24,APR-002,Observación menor
+LOG-00562,SOL-0121,Recibida,03-03-24,APR-004,Pendiente documentación
+LOG-00563,SOL-0121,En Validación,05-03-24,APR-002,Aprobado sin observaciones
+LOG-00564,SOL-0121,En Revisión Calidad,07-03-24,APR-002,
+LOG-00565,SOL-0121,En Aprobación,12-03-24,APR-003,
+LOG-00566,SOL-0121,Cerrada,15-03-24,APR-003,
+LOG-00567,SOL-0122,Recibida,29-05-24,APR-002,Pendiente documentación
+LOG-00568,SOL-0122,En Validación,31-05-24,APR-004,
+LOG-00569,SOL-0122,En Revisión Calidad,02-06-24,APR-002,Pendiente documentación
+LOG-00570,SOL-0122,En Aprobación,07-06-24,APR-004,Pendiente documentación
+LOG-00571,SOL-0123,Recibida,28-08-24,APR-002,Observación menor
+LOG-00572,SOL-0123,En Validación,30-08-24,APR-001,
+LOG-00573,SOL-0123,En Revisión Calidad,01-09-24,APR-004,Aprobado sin observaciones
+LOG-00574,SOL-0123,En Aprobación,03-09-24,APR-001,
+LOG-00575,SOL-0123,Cerrada,09-09-24,APR-003,Pendiente documentación
+LOG-00576,SOL-0124,Recibida,09-03-24,APR-003,
+LOG-00577,SOL-0124,En Validación,11-03-24,APR-003,
+LOG-00578,SOL-0124,En Revisión Calidad,13-03-24,APR-004,Pendiente documentación
+LOG-00579,SOL-0124,En Aprobación,18-03-24,APR-002,Aprobado sin observaciones
+LOG-00580,SOL-0125,Recibida,30-05-24,APR-002,Observación menor
+LOG-00581,SOL-0125,En Validación,01-06-24,APR-002,
+LOG-00582,SOL-0125,En Revisión Calidad,05-06-24,APR-001,Aprobado sin observaciones
+LOG-00583,SOL-0125,En Aprobación,02-06-24,APR-001,
+LOG-00584,SOL-0125,Cerrada,07-06-24,APR-001,Observación menor
+LOG-00585,SOL-0126,Recibida,01-07-24,APR-004,
+LOG-00586,SOL-0126,En Validación,02-07-24,APR-003,
+LOG-00587,SOL-0126,En Revisión Calidad,03-07-24,APR-001,
+LOG-00588,SOL-0126,En Aprobación,10-07-24,APR-001,
+LOG-00589,SOL-0126,Cerrada,13-07-24,APR-002,Observación menor
+LOG-00590,SOL-0127,Recibida,22-09-24,APR-001,Aprobado sin observaciones
+LOG-00591,SOL-0127,En Validación,23-09-24,APR-001,Observación menor
+LOG-00592,SOL-0127,En Revisión Calidad,24-09-24,APR-004,Aprobado sin observaciones
+LOG-00593,SOL-0127,En Aprobación,01-10-24,APR-002,
+LOG-00594,SOL-0127,Cerrada,04-10-24,APR-002,
+LOG-00595,SOL-0128,Recibida,04-12-24,APR-004,Aprobado sin observaciones
+LOG-00596,SOL-0128,En Validación,05-12-24,APR-004,
+LOG-00597,SOL-0128,En Revisión Calidad,08-12-24,APR-003,
+LOG-00598,SOL-0128,En Aprobación,07-12-24,APR-001,
+LOG-00599,SOL-0128,Cerrada,08-12-24,APR-004,Pendiente documentación
+LOG-00600,SOL-0129,Recibida,20-05-24,APR-001,
+LOG-00601,SOL-0129,En Validación,22-05-24,APR-002,Pendiente documentación
+LOG-00602,SOL-0129,En Revisión Calidad,22-05-24,APR-004,
+LOG-00603,SOL-0129,En Aprobación,29-05-24,APR-004,
+LOG-00604,SOL-0129,Cerrada,01-06-24,APR-004,
+LOG-00605,SOL-0130,Recibida,05-03-24,APR-004,
+LOG-00606,SOL-0130,En Validación,08-03-24,APR-001,Pendiente documentación
+LOG-00607,SOL-0130,En Revisión Calidad,11-03-24,APR-003,
+LOG-00608,SOL-0130,En Aprobación,08-03-24,APR-001,
+LOG-00609,SOL-0131,Recibida,15-08-24,APR-003,Pendiente documentación
+LOG-00610,SOL-0131,En Validación,16-08-24,APR-004,
+LOG-00611,SOL-0131,En Revisión Calidad,21-08-24,APR-001,
+LOG-00612,SOL-0131,En Aprobación,24-08-24,APR-004,
+LOG-00613,SOL-0132,Recibida,22-09-24,APR-003,Pendiente documentación
+LOG-00614,SOL-0132,En Validación,25-09-24,APR-001,Observación menor
+LOG-00615,SOL-0132,En Revisión Calidad,28-09-24,APR-004,Pendiente documentación
+LOG-00616,SOL-0132,En Aprobación,28-09-24,APR-004,Aprobado sin observaciones
+LOG-00617,SOL-0132,Cerrada,26-09-24,APR-002,
+LOG-00618,SOL-0133,Recibida,19-08-24,APR-004,
+LOG-00619,SOL-0133,En Validación,22-08-24,APR-003,
+LOG-00620,SOL-0133,En Revisión Calidad,25-08-24,APR-003,Pendiente documentación
+LOG-00621,SOL-0133,En Aprobación,22-08-24,APR-001,
+LOG-00622,SOL-0133,Cerrada,31-08-24,APR-003,
+LOG-00623,SOL-0134,Recibida,17-09-24,APR-003,Aprobado sin observaciones
+LOG-00624,SOL-0134,En Validación,18-09-24,APR-002,Observación menor
+LOG-00625,SOL-0134,En Revisión Calidad,19-09-24,APR-004,Aprobado sin observaciones
+LOG-00626,SOL-0134,En Aprobación,20-09-24,APR-003,Aprobado sin observaciones
+LOG-00627,SOL-0134,Cerrada,25-09-24,APR-001,Aprobado sin observaciones
+LOG-00628,SOL-0135,Recibida,03-02-24,APR-003,Pendiente documentación
+LOG-00629,SOL-0135,En Validación,04-02-24,APR-004,Aprobado sin observaciones
+LOG-00630,SOL-0135,En Revisión Calidad,05-02-24,APR-002,
+LOG-00631,SOL-0135,En Aprobación,06-02-24,APR-001,Aprobado sin observaciones
+LOG-00632,SOL-0135,Cerrada,15-02-24,APR-002,Pendiente documentación
+LOG-00633,SOL-0136,Recibida,26-08-24,APR-001,Observación menor
+LOG-00634,SOL-0136,En Validación,29-08-24,APR-003,Pendiente documentación
+LOG-00635,SOL-0136,En Revisión Calidad,01-09-24,APR-004,
+LOG-00636,SOL-0136,En Aprobación,29-08-24,APR-003,
+LOG-00637,SOL-0136,Cerrada,03-09-24,APR-001,Pendiente documentación
+LOG-00638,SOL-0137,Recibida,25-03-24,APR-002,Aprobado sin observaciones
+LOG-00639,SOL-0137,En Validación,28-03-24,APR-004,Aprobado sin observaciones
+LOG-00640,SOL-0137,En Revisión Calidad,31-03-24,APR-002,Aprobado sin observaciones
+LOG-00641,SOL-0137,En Aprobación,03-04-24,APR-002,
+LOG-00642,SOL-0137,Cerrada,29-03-24,APR-002,Pendiente documentación
+LOG-00643,SOL-0138,Recibida,16-11-24,APR-001,Pendiente documentación
+LOG-00644,SOL-0138,En Validación,19-11-24,APR-001,
+LOG-00645,SOL-0138,En Revisión Calidad,22-11-24,APR-002,
+LOG-00646,SOL-0138,En Aprobación,19-11-24,APR-001,
+LOG-00647,SOL-0138,Cerrada,20-11-24,APR-004,Observación menor
+LOG-00648,SOL-0139,Recibida,24-01-24,APR-001,
+LOG-00649,SOL-0139,En Validación,25-01-24,APR-004,Observación menor
+LOG-00650,SOL-0139,En Revisión Calidad,30-01-24,APR-002,
+LOG-00651,SOL-0139,En Aprobación,27-01-24,APR-004,
+LOG-00652,SOL-0140,Recibida,16-12-24,APR-004,
+LOG-00653,SOL-0140,En Validación,17-12-24,APR-002,
+LOG-00654,SOL-0140,En Revisión Calidad,18-12-24,APR-001,Observación menor
+LOG-00655,SOL-0140,En Aprobación,19-12-24,APR-003,
+LOG-00656,SOL-0141,Recibida,09-06-24,APR-003,
+LOG-00657,SOL-0141,En Validación,11-06-24,APR-002,Aprobado sin observaciones
+LOG-00658,SOL-0141,En Revisión Calidad,13-06-24,APR-002,Pendiente documentación
+LOG-00659,SOL-0141,En Aprobación,12-06-24,APR-001,
+LOG-00660,SOL-0141,Cerrada,13-06-24,APR-004,
+LOG-00661,SOL-0142,Recibida,16-05-24,APR-004,
+LOG-00662,SOL-0142,En Validación,17-05-24,APR-001,
+LOG-00663,SOL-0142,En Revisión Calidad,18-05-24,APR-003,Pendiente documentación
+LOG-00664,SOL-0142,En Aprobación,25-05-24,APR-004,Aprobado sin observaciones
+LOG-00665,SOL-0142,Cerrada,20-05-24,APR-002,
+LOG-00666,SOL-0143,Recibida,07-04-24,APR-003,Observación menor
+LOG-00667,SOL-0143,En Validación,09-04-24,APR-004,
+LOG-00668,SOL-0143,En Revisión Calidad,09-04-24,APR-001,Observación menor
+LOG-00669,SOL-0143,En Aprobación,10-04-24,APR-004,Observación menor
+LOG-00670,SOL-0143,Cerrada,11-04-24,APR-003,
+LOG-00671,SOL-0144,Recibida,20-04-24,APR-001,Observación menor
+LOG-00672,SOL-0144,En Validación,21-04-24,APR-002,
+LOG-00673,SOL-0144,En Revisión Calidad,26-04-24,APR-001,Observación menor
+LOG-00674,SOL-0144,En Aprobación,26-04-24,APR-002,Pendiente documentación
+LOG-00675,SOL-0144,Cerrada,02-05-24,APR-002,
+LOG-00676,SOL-0145,Recibida,06-07-24,APR-002,
+LOG-00677,SOL-0145,En Validación,07-07-24,APR-004,Pendiente documentación
+LOG-00678,SOL-0145,En Revisión Calidad,08-07-24,APR-002,Aprobado sin observaciones
+LOG-00679,SOL-0145,En Aprobación,09-07-24,APR-001,Aprobado sin observaciones
+LOG-00680,SOL-0145,Cerrada,14-07-24,APR-003,
+LOG-00681,SOL-0146,Recibida,15-11-24,APR-003,
+LOG-00682,SOL-0146,En Validación,18-11-24,APR-004,
+LOG-00683,SOL-0146,En Revisión Calidad,17-11-24,APR-001,Observación menor
+LOG-00684,SOL-0146,En Aprobación,18-11-24,APR-002,
+LOG-00685,SOL-0146,Cerrada,23-11-24,APR-001,
+LOG-00686,SOL-0147,Recibida,24-01-24,APR-004,Observación menor
+LOG-00687,SOL-0147,En Validación,27-01-24,APR-003,Pendiente documentación
+LOG-00688,SOL-0147,En Revisión Calidad,26-01-24,APR-003,
+LOG-00689,SOL-0147,En Aprobación,27-01-24,APR-003,
+LOG-00690,SOL-0147,Cerrada,28-01-24,APR-002,Aprobado sin observaciones
+LOG-00691,SOL-0148,Recibida,11-11-24,APR-002,Pendiente documentación
+LOG-00692,SOL-0148,En Validación,12-11-24,APR-001,Pendiente documentación
+LOG-00693,SOL-0148,En Revisión Calidad,17-11-24,APR-004,
+LOG-00694,SOL-0148,En Aprobación,17-11-24,APR-002,
+LOG-00695,SOL-0149,Recibida,10-12-24,APR-004,
+LOG-00696,SOL-0149,En Validación,12-12-24,APR-003,
+LOG-00697,SOL-0149,En Revisión Calidad,14-12-24,APR-002,Aprobado sin observaciones
+LOG-00698,SOL-0149,En Aprobación,16-12-24,APR-003,
+LOG-00699,SOL-0149,Cerrada,18-12-24,APR-002,
+LOG-00700,SOL-0150,Recibida,25-09-24,APR-001,
+LOG-00701,SOL-0150,En Validación,26-09-24,APR-001,Pendiente documentación
+LOG-00702,SOL-0150,En Revisión Calidad,29-09-24,APR-004,
+LOG-00703,SOL-0150,En Aprobación,01-10-24,APR-002,
+LOG-00704,SOL-0151,Recibida,02-08-24,APR-002,Aprobado sin observaciones
+LOG-00705,SOL-0151,En Validación,05-08-24,APR-002,Observación menor
+LOG-00706,SOL-0151,En Revisión Calidad,08-08-24,APR-002,
+LOG-00707,SOL-0151,En Aprobación,08-08-24,APR-004,
+LOG-00708,SOL-0151,Cerrada,14-08-24,APR-004,Pendiente documentación
+LOG-00709,SOL-0152,Recibida,09-06-24,APR-001,Aprobado sin observaciones
+LOG-00710,SOL-0152,En Validación,11-06-24,APR-002,
+LOG-00711,SOL-0152,En Revisión Calidad,13-06-24,APR-004,Observación menor
+LOG-00712,SOL-0152,En Aprobación,12-06-24,APR-002,Observación menor
+LOG-00713,SOL-0153,Recibida,25-04-24,APR-004,
+LOG-00714,SOL-0153,En Validación,26-04-24,APR-004,Aprobado sin observaciones
+LOG-00715,SOL-0153,En Revisión Calidad,01-05-24,APR-001,Pendiente documentación
+LOG-00716,SOL-0153,En Aprobación,04-05-24,APR-004,Pendiente documentación
+LOG-00717,SOL-0153,Cerrada,07-05-24,APR-001,Pendiente documentación
+LOG-00718,SOL-0154,Recibida,25-06-24,APR-002,
+LOG-00719,SOL-0154,En Validación,28-06-24,APR-001,Aprobado sin observaciones
+LOG-00720,SOL-0154,En Revisión Calidad,01-07-24,APR-004,
+LOG-00721,SOL-0154,En Aprobación,28-06-24,APR-003,
+LOG-00722,SOL-0154,Cerrada,29-06-24,APR-001,
+LOG-00723,SOL-0155,Recibida,11-03-24,APR-003,
+LOG-00724,SOL-0155,En Validación,14-03-24,APR-004,Observación menor
+LOG-00725,SOL-0155,En Revisión Calidad,17-03-24,APR-001,Pendiente documentación
+LOG-00726,SOL-0155,En Aprobación,17-03-24,APR-002,Aprobado sin observaciones
+LOG-00727,SOL-0155,Cerrada,19-03-24,APR-002,
+LOG-00728,SOL-0156,Recibida,14-12-24,APR-004,Aprobado sin observaciones
+LOG-00729,SOL-0156,En Validación,17-12-24,APR-001,Aprobado sin observaciones
+LOG-00730,SOL-0156,En Revisión Calidad,16-12-24,APR-004,Aprobado sin observaciones
+LOG-00731,SOL-0156,En Aprobación,20-12-24,APR-001,
+LOG-00732,SOL-0156,Cerrada,22-12-24,APR-003,Aprobado sin observaciones
+LOG-00733,SOL-0157,Recibida,15-02-24,APR-002,Aprobado sin observaciones
+LOG-00734,SOL-0157,En Validación,16-02-24,APR-003,Aprobado sin observaciones
+LOG-00735,SOL-0157,En Revisión Calidad,17-02-24,APR-003,
+LOG-00736,SOL-0157,En Aprobación,18-02-24,APR-004,
+LOG-00737,SOL-0157,Cerrada,23-02-24,APR-001,
+LOG-00738,SOL-0158,Recibida,28-05-24,APR-002,Aprobado sin observaciones
+LOG-00739,SOL-0158,En Validación,31-05-24,APR-001,Observación menor
+LOG-00740,SOL-0158,En Revisión Calidad,03-06-24,APR-002,
+LOG-00741,SOL-0158,En Aprobación,03-06-24,APR-002,Observación menor
+LOG-00742,SOL-0158,Cerrada,01-06-24,APR-004,Aprobado sin observaciones
+LOG-00743,SOL-0159,Recibida,15-09-24,APR-002,Aprobado sin observaciones
+LOG-00744,SOL-0159,En Validación,16-09-24,APR-003,
+LOG-00745,SOL-0159,En Revisión Calidad,19-09-24,APR-004,
+LOG-00746,SOL-0159,En Aprobación,18-09-24,APR-001,
+LOG-00747,SOL-0160,Recibida,31-05-24,APR-004,Pendiente documentación
+LOG-00748,SOL-0160,En Validación,03-06-24,APR-001,Pendiente documentación
+LOG-00749,SOL-0160,En Revisión Calidad,06-06-24,APR-003,Pendiente documentación
+LOG-00750,SOL-0160,En Aprobación,09-06-24,APR-003,Aprobado sin observaciones
+LOG-00751,SOL-0161,Recibida,12-03-24,APR-001,
+LOG-00752,SOL-0161,En Validación,14-03-24,APR-001,
+LOG-00753,SOL-0161,En Revisión Calidad,16-03-24,APR-002,
+LOG-00754,SOL-0161,En Aprobación,15-03-24,APR-001,
+LOG-00755,SOL-0161,Cerrada,20-03-24,APR-001,Aprobado sin observaciones
+LOG-00756,SOL-0162,Recibida,30-11-24,APR-004,
+LOG-00757,SOL-0162,En Validación,01-12-24,APR-001,
+LOG-00758,SOL-0162,En Revisión Calidad,04-12-24,APR-002,Pendiente documentación
+LOG-00759,SOL-0162,En Aprobación,06-12-24,APR-004,Pendiente documentación
+LOG-00760,SOL-0162,Cerrada,12-12-24,APR-001,
+LOG-00761,SOL-0163,Recibida,10-11-24,APR-001,
+LOG-00762,SOL-0163,En Validación,11-11-24,APR-003,Pendiente documentación
+LOG-00763,SOL-0163,En Revisión Calidad,16-11-24,APR-003,Aprobado sin observaciones
+LOG-00764,SOL-0163,En Aprobación,19-11-24,APR-003,Pendiente documentación
+LOG-00765,SOL-0164,Recibida,06-05-24,APR-004,Pendiente documentación
+LOG-00766,SOL-0164,En Validación,08-05-24,APR-002,
+LOG-00767,SOL-0164,En Revisión Calidad,08-05-24,APR-003,
+LOG-00768,SOL-0164,En Aprobación,12-05-24,APR-003,
+LOG-00769,SOL-0165,Recibida,25-03-24,APR-002,
+LOG-00770,SOL-0165,En Validación,27-03-24,APR-004,
+LOG-00771,SOL-0165,En Revisión Calidad,31-03-24,APR-002,Aprobado sin observaciones
+LOG-00772,SOL-0165,En Aprobación,03-04-24,APR-003,
+LOG-00773,SOL-0165,Cerrada,29-03-24,APR-002,
+LOG-00774,SOL-0166,Recibida,21-08-24,APR-001,
+LOG-00775,SOL-0166,En Validación,23-08-24,APR-002,Pendiente documentación
+LOG-00776,SOL-0166,En Revisión Calidad,25-08-24,APR-003,
+LOG-00777,SOL-0166,En Aprobación,24-08-24,APR-001,Aprobado sin observaciones
+LOG-00778,SOL-0166,Cerrada,29-08-24,APR-003,
+LOG-00779,SOL-0167,Recibida,04-08-24,APR-004,Observación menor
+LOG-00780,SOL-0167,En Validación,05-08-24,APR-003,
+LOG-00781,SOL-0167,En Revisión Calidad,06-08-24,APR-004,Pendiente documentación
+LOG-00782,SOL-0167,En Aprobación,07-08-24,APR-004,
+LOG-00783,SOL-0168,Recibida,24-11-24,APR-001,Aprobado sin observaciones
+LOG-00784,SOL-0168,En Validación,27-11-24,APR-003,Aprobado sin observaciones
+LOG-00785,SOL-0168,En Revisión Calidad,30-11-24,APR-003,Pendiente documentación
+LOG-00786,SOL-0168,En Aprobación,30-11-24,APR-002,Observación menor
+LOG-00787,SOL-0168,Cerrada,06-12-24,APR-004,
+LOG-00788,SOL-0169,Recibida,01-03-24,APR-001,Aprobado sin observaciones
+LOG-00789,SOL-0169,En Validación,03-03-24,APR-001,
+LOG-00790,SOL-0169,En Revisión Calidad,07-03-24,APR-001,
+LOG-00791,SOL-0169,En Aprobación,04-03-24,APR-004,Observación menor
+LOG-00792,SOL-0170,Recibida,27-04-24,APR-004,
+LOG-00793,SOL-0170,En Validación,28-04-24,APR-003,
+LOG-00794,SOL-0170,En Revisión Calidad,03-05-24,APR-002,Observación menor
+LOG-00795,SOL-0170,En Aprobación,06-05-24,APR-002,
+LOG-00796,SOL-0170,Cerrada,01-05-24,APR-001,
+LOG-00797,SOL-0171,Recibida,04-02-24,APR-004,Aprobado sin observaciones
+LOG-00798,SOL-0171,En Validación,07-02-24,APR-001,Observación menor
+LOG-00799,SOL-0171,En Revisión Calidad,08-02-24,APR-002,Pendiente documentación
+LOG-00800,SOL-0171,En Aprobación,10-02-24,APR-001,Aprobado sin observaciones
+LOG-00801,SOL-0172,Recibida,29-01-24,APR-004,
+LOG-00802,SOL-0172,En Validación,01-02-24,APR-004,
+LOG-00803,SOL-0172,En Revisión Calidad,02-02-24,APR-003,
+LOG-00804,SOL-0172,En Aprobación,04-02-24,APR-003,
+LOG-00805,SOL-0172,Cerrada,06-02-24,APR-004,Observación menor
+LOG-00806,SOL-0173,Recibida,02-06-24,APR-002,Aprobado sin observaciones
+LOG-00807,SOL-0173,En Validación,04-06-24,APR-004,Pendiente documentación
+LOG-00808,SOL-0173,En Revisión Calidad,06-06-24,APR-002,Aprobado sin observaciones
+LOG-00809,SOL-0173,En Aprobación,08-06-24,APR-004,
+LOG-00810,SOL-0173,Cerrada,14-06-24,APR-001,
+LOG-00811,SOL-0174,Recibida,22-12-24,APR-003,Pendiente documentación
+LOG-00812,SOL-0174,En Validación,25-12-24,APR-003,
+LOG-00813,SOL-0174,En Revisión Calidad,28-12-24,APR-004,
+LOG-00814,SOL-0174,En Aprobación,25-12-24,APR-004,Aprobado sin observaciones
+LOG-00815,SOL-0174,Cerrada,30-12-24,APR-004,
+LOG-00816,SOL-0175,Recibida,30-01-24,APR-004,Aprobado sin observaciones
+LOG-00817,SOL-0175,En Validación,02-02-24,APR-002,
+LOG-00818,SOL-0175,En Revisión Calidad,01-02-24,APR-004,
+LOG-00819,SOL-0175,En Aprobación,08-02-24,APR-004,
+LOG-00820,SOL-0175,Cerrada,07-02-24,APR-003,Pendiente documentación
+LOG-00821,SOL-0176,Recibida,17-02-24,APR-004,
+LOG-00822,SOL-0176,En Validación,18-02-24,APR-001,
+LOG-00823,SOL-0176,En Revisión Calidad,21-02-24,APR-003,Aprobado sin observaciones
+LOG-00824,SOL-0176,En Aprobación,26-02-24,APR-004,
+LOG-00825,SOL-0177,Recibida,16-04-24,APR-003,Pendiente documentación
+LOG-00826,SOL-0177,En Validación,17-04-24,APR-004,Aprobado sin observaciones
+LOG-00827,SOL-0177,En Revisión Calidad,22-04-24,APR-002,
+LOG-00828,SOL-0177,En Aprobación,19-04-24,APR-003,Pendiente documentación
+LOG-00829,SOL-0177,Cerrada,20-04-24,APR-003,Observación menor
+LOG-00830,SOL-0178,Recibida,02-05-24,APR-004,
+LOG-00831,SOL-0178,En Validación,05-05-24,APR-004,Aprobado sin observaciones
+LOG-00832,SOL-0178,En Revisión Calidad,04-05-24,APR-003,Observación menor
+LOG-00833,SOL-0178,En Aprobación,11-05-24,APR-001,
+LOG-00834,SOL-0179,Recibida,20-02-24,APR-001,
+LOG-00835,SOL-0179,En Validación,22-02-24,APR-004,Aprobado sin observaciones
+LOG-00836,SOL-0179,En Revisión Calidad,22-02-24,APR-003,
+LOG-00837,SOL-0179,En Aprobación,23-02-24,APR-003,
+LOG-00838,SOL-0179,Cerrada,28-02-24,APR-003,
+LOG-00839,SOL-0180,Recibida,10-10-24,APR-003,Observación menor
+LOG-00840,SOL-0180,En Validación,13-10-24,APR-001,Observación menor
+LOG-00841,SOL-0180,En Revisión Calidad,12-10-24,APR-002,
+LOG-00842,SOL-0180,En Aprobación,19-10-24,APR-002,Observación menor
+LOG-00843,SOL-0181,Recibida,07-09-24,APR-003,Aprobado sin observaciones
+LOG-00844,SOL-0181,En Validación,09-09-24,APR-003,Aprobado sin observaciones
+LOG-00845,SOL-0181,En Revisión Calidad,13-09-24,APR-003,
+LOG-00846,SOL-0181,En Aprobación,16-09-24,APR-003,
+LOG-00847,SOL-0181,Cerrada,11-09-24,APR-002,Observación menor
+LOG-00848,SOL-0182,Recibida,08-02-24,APR-003,Pendiente documentación
+LOG-00849,SOL-0182,En Validación,10-02-24,APR-003,
+LOG-00850,SOL-0182,En Revisión Calidad,10-02-24,APR-002,
+LOG-00851,SOL-0182,En Aprobación,17-02-24,APR-002,
+LOG-00852,SOL-0183,Recibida,31-01-24,APR-001,Pendiente documentación
+LOG-00853,SOL-0183,En Validación,02-02-24,APR-001,
+LOG-00854,SOL-0183,En Revisión Calidad,02-02-24,APR-001,Pendiente documentación
+LOG-00855,SOL-0183,En Aprobación,06-02-24,APR-003,Aprobado sin observaciones
+LOG-00856,SOL-0183,Cerrada,08-02-24,APR-002,Pendiente documentación
+LOG-00857,SOL-0184,Recibida,09-01-24,APR-003,
+LOG-00858,SOL-0184,En Validación,12-01-24,APR-003,
+LOG-00859,SOL-0184,En Revisión Calidad,15-01-24,APR-001,
+LOG-00860,SOL-0184,En Aprobación,12-01-24,APR-002,Aprobado sin observaciones
+LOG-00861,SOL-0185,Recibida,16-05-24,APR-003,
+LOG-00862,SOL-0185,En Validación,17-05-24,APR-002,
+LOG-00863,SOL-0185,En Revisión Calidad,20-05-24,APR-001,
+LOG-00864,SOL-0185,En Aprobación,19-05-24,APR-004,Pendiente documentación
+LOG-00865,SOL-0185,Cerrada,20-05-24,APR-002,
+LOG-00866,SOL-0186,Recibida,26-07-24,APR-001,Pendiente documentación
+LOG-00867,SOL-0186,En Validación,27-07-24,APR-003,
+LOG-00868,SOL-0186,En Revisión Calidad,28-07-24,APR-003,Aprobado sin observaciones
+LOG-00869,SOL-0186,En Aprobación,29-07-24,APR-001,
+LOG-00870,SOL-0187,Recibida,27-09-24,APR-002,Observación menor
+LOG-00871,SOL-0187,En Validación,28-09-24,APR-002,Aprobado sin observaciones
+LOG-00872,SOL-0187,En Revisión Calidad,01-10-24,APR-001,
+LOG-00873,SOL-0187,En Aprobación,30-09-24,APR-003,Observación menor
+LOG-00874,SOL-0187,Cerrada,05-10-24,APR-003,
+LOG-00875,SOL-0188,Recibida,27-10-24,APR-002,Observación menor
+LOG-00876,SOL-0188,En Validación,30-10-24,APR-001,
+LOG-00877,SOL-0188,En Revisión Calidad,02-11-24,APR-001,Observación menor
+LOG-00878,SOL-0188,En Aprobación,30-10-24,APR-002,
+LOG-00879,SOL-0188,Cerrada,31-10-24,APR-001,Aprobado sin observaciones
+LOG-00880,SOL-0189,Recibida,13-09-24,APR-002,Observación menor
+LOG-00881,SOL-0189,En Validación,16-09-24,APR-004,
+LOG-00882,SOL-0189,En Revisión Calidad,19-09-24,APR-002,Pendiente documentación
+LOG-00883,SOL-0189,En Aprobación,22-09-24,APR-001,
+LOG-00884,SOL-0189,Cerrada,21-09-24,APR-004,Pendiente documentación
+LOG-00885,SOL-0190,Recibida,08-09-24,APR-002,Pendiente documentación
+LOG-00886,SOL-0190,En Validación,09-09-24,APR-003,
+LOG-00887,SOL-0190,En Revisión Calidad,12-09-24,APR-001,Observación menor
+LOG-00888,SOL-0190,En Aprobación,11-09-24,APR-004,
+LOG-00889,SOL-0190,Cerrada,20-09-24,APR-003,Observación menor
+LOG-00890,SOL-0191,Recibida,12-02-24,APR-001,
+LOG-00891,SOL-0191,En Validación,14-02-24,APR-004,
+LOG-00892,SOL-0191,En Revisión Calidad,16-02-24,APR-003,Pendiente documentación
+LOG-00893,SOL-0191,En Aprobación,21-02-24,APR-003,Aprobado sin observaciones
+LOG-00894,SOL-0192,Recibida,15-08-24,APR-002,Observación menor
+LOG-00895,SOL-0192,En Validación,17-08-24,APR-003,Pendiente documentación
+LOG-00896,SOL-0192,En Revisión Calidad,17-08-24,APR-001,Pendiente documentación
+LOG-00897,SOL-0192,En Aprobación,24-08-24,APR-003,
+LOG-00898,SOL-0192,Cerrada,19-08-24,APR-004,Aprobado sin observaciones
+LOG-00899,SOL-0193,Recibida,10-10-24,APR-004,Pendiente documentación
+LOG-00900,SOL-0193,En Validación,13-10-24,APR-001,
+LOG-00901,SOL-0193,En Revisión Calidad,12-10-24,APR-004,Pendiente documentación
+LOG-00902,SOL-0193,En Aprobación,19-10-24,APR-001,Aprobado sin observaciones
+LOG-00903,SOL-0193,Cerrada,14-10-24,APR-001,
+LOG-00904,SOL-0194,Recibida,27-03-24,APR-003,
+LOG-00905,SOL-0194,En Validación,30-03-24,APR-004,
+LOG-00906,SOL-0194,En Revisión Calidad,29-03-24,APR-004,Aprobado sin observaciones
+LOG-00907,SOL-0194,En Aprobación,02-04-24,APR-003,Aprobado sin observaciones
+LOG-00908,SOL-0195,Recibida,03-07-24,APR-003,Aprobado sin observaciones
+LOG-00909,SOL-0195,En Validación,05-07-24,APR-003,Pendiente documentación
+LOG-00910,SOL-0195,En Revisión Calidad,09-07-24,APR-004,Pendiente documentación
+LOG-00911,SOL-0195,En Aprobación,12-07-24,APR-003,
+LOG-00912,SOL-0195,Cerrada,11-07-24,APR-001,
+LOG-00913,SOL-0196,Recibida,13-08-24,APR-004,Pendiente documentación
+LOG-00914,SOL-0196,En Validación,14-08-24,APR-002,
+LOG-00915,SOL-0196,En Revisión Calidad,15-08-24,APR-001,
+LOG-00916,SOL-0196,En Aprobación,19-08-24,APR-001,
+LOG-00917,SOL-0196,Cerrada,21-08-24,APR-003,
+LOG-00918,SOL-0197,Recibida,29-05-24,APR-001,
+LOG-00919,SOL-0197,En Validación,01-06-24,APR-004,Pendiente documentación
+LOG-00920,SOL-0197,En Revisión Calidad,31-05-24,APR-003,Aprobado sin observaciones
+LOG-00921,SOL-0197,En Aprobación,04-06-24,APR-004,Observación menor
+LOG-00922,SOL-0197,Cerrada,06-06-24,APR-003,Observación menor
+LOG-00923,SOL-0198,Recibida,24-08-24,APR-001,
+LOG-00924,SOL-0198,En Validación,26-08-24,APR-001,Pendiente documentación
+LOG-00925,SOL-0198,En Revisión Calidad,28-08-24,APR-003,Pendiente documentación
+LOG-00926,SOL-0198,En Aprobación,30-08-24,APR-004,
+LOG-00927,SOL-0199,Recibida,09-05-24,APR-002,Observación menor
+LOG-00928,SOL-0199,En Validación,12-05-24,APR-003,Aprobado sin observaciones
+LOG-00929,SOL-0199,En Revisión Calidad,11-05-24,APR-004,Pendiente documentación
+LOG-00930,SOL-0199,En Aprobación,12-05-24,APR-003,Aprobado sin observaciones
+LOG-00931,SOL-0199,Cerrada,17-05-24,APR-004,
+LOG-00932,SOL-0200,Recibida,03-07-24,APR-004,Aprobado sin observaciones
+LOG-00933,SOL-0200,En Validación,06-07-24,APR-004,Pendiente documentación
+LOG-00934,SOL-0200,En Revisión Calidad,09-07-24,APR-002,Observación menor
+LOG-00935,SOL-0200,En Aprobación,06-07-24,APR-004,
+LOG-00936,SOL-0201,Recibida,08-08-24,APR-004,Observación menor
+LOG-00937,SOL-0201,En Validación,11-08-24,APR-003,
+LOG-00938,SOL-0201,En Revisión Calidad,12-08-24,APR-001,
+LOG-00939,SOL-0201,En Aprobación,17-08-24,APR-001,
+LOG-00940,SOL-0202,Recibida,13-12-24,APR-003,Aprobado sin observaciones
+LOG-00941,SOL-0202,En Validación,16-12-24,APR-001,Aprobado sin observaciones
+LOG-00942,SOL-0202,En Revisión Calidad,17-12-24,APR-004,
+LOG-00943,SOL-0202,En Aprobación,19-12-24,APR-003,
+LOG-00944,SOL-0202,Cerrada,21-12-24,APR-003,
+LOG-00945,SOL-0203,Recibida,24-06-24,APR-002,
+LOG-00946,SOL-0203,En Validación,25-06-24,APR-003,Observación menor
+LOG-00947,SOL-0203,En Revisión Calidad,26-06-24,APR-001,
+LOG-00948,SOL-0203,En Aprobación,27-06-24,APR-003,
+LOG-00949,SOL-0204,Recibida,12-01-24,APR-003,
+LOG-00950,SOL-0204,En Validación,14-01-24,APR-004,Observación menor
+LOG-00951,SOL-0204,En Revisión Calidad,18-01-24,APR-004,
+LOG-00952,SOL-0204,En Aprobación,15-01-24,APR-004,Observación menor
+LOG-00953,SOL-0204,Cerrada,16-01-24,APR-003,Pendiente documentación
+LOG-00954,SOL-0205,Recibida,26-07-24,APR-004,
+LOG-00955,SOL-0205,En Validación,29-07-24,APR-001,Pendiente documentación
+LOG-00956,SOL-0205,En Revisión Calidad,28-07-24,APR-002,
+LOG-00957,SOL-0205,En Aprobación,01-08-24,APR-003,
+LOG-00958,SOL-0206,Recibida,03-01-24,APR-003,
+LOG-00959,SOL-0206,En Validación,05-01-24,APR-002,Pendiente documentación
+LOG-00960,SOL-0206,En Revisión Calidad,09-01-24,APR-001,Observación menor
+LOG-00961,SOL-0206,En Aprobación,06-01-24,APR-003,
+LOG-00962,SOL-0206,Cerrada,07-01-24,APR-003,Observación menor
+LOG-00963,SOL-0207,Recibida,14-05-24,APR-002,Observación menor
+LOG-00964,SOL-0207,En Validación,17-05-24,APR-001,Aprobado sin observaciones
+LOG-00965,SOL-0207,En Revisión Calidad,20-05-24,APR-001,Observación menor
+LOG-00966,SOL-0207,En Aprobación,20-05-24,APR-003,
+LOG-00967,SOL-0207,Cerrada,26-05-24,APR-004,Pendiente documentación
+LOG-00968,SOL-0208,Recibida,10-12-24,APR-003,
+LOG-00969,SOL-0208,En Validación,13-12-24,APR-003,Observación menor
+LOG-00970,SOL-0208,En Revisión Calidad,14-12-24,APR-004,Aprobado sin observaciones
+LOG-00971,SOL-0208,En Aprobación,19-12-24,APR-003,
+LOG-00972,SOL-0208,Cerrada,18-12-24,APR-004,
+LOG-00973,SOL-0209,Recibida,21-12-24,APR-004,Aprobado sin observaciones
+LOG-00974,SOL-0209,En Validación,24-12-24,APR-002,
+LOG-00975,SOL-0209,En Revisión Calidad,27-12-24,APR-002,Observación menor
+LOG-00976,SOL-0209,En Aprobación,27-12-24,APR-002,Aprobado sin observaciones
+LOG-00977,SOL-0209,Cerrada,02-01-25,APR-004,
+LOG-00978,SOL-0210,Recibida,12-03-24,APR-004,Observación menor
+LOG-00979,SOL-0210,En Validación,15-03-24,APR-001,Observación menor
+LOG-00980,SOL-0210,En Revisión Calidad,14-03-24,APR-003,Pendiente documentación
+LOG-00981,SOL-0210,En Aprobación,15-03-24,APR-002,
+LOG-00982,SOL-0211,Recibida,28-07-24,APR-003,Pendiente documentación
+LOG-00983,SOL-0211,En Validación,30-07-24,APR-003,
+LOG-00984,SOL-0211,En Revisión Calidad,03-08-24,APR-002,Pendiente documentación
+LOG-00985,SOL-0211,En Aprobación,03-08-24,APR-003,Aprobado sin observaciones
+LOG-00986,SOL-0211,Cerrada,01-08-24,APR-003,Aprobado sin observaciones
+LOG-00987,SOL-0212,Recibida,02-10-24,APR-002,Pendiente documentación
+LOG-00988,SOL-0212,En Validación,03-10-24,APR-001,
+LOG-00989,SOL-0212,En Revisión Calidad,04-10-24,APR-001,
+LOG-00990,SOL-0212,En Aprobación,08-10-24,APR-004,Pendiente documentación
+LOG-00991,SOL-0212,Cerrada,14-10-24,APR-004,Pendiente documentación
+LOG-00992,SOL-0213,Recibida,13-08-24,APR-001,
+LOG-00993,SOL-0213,En Validación,14-08-24,APR-003,
+LOG-00994,SOL-0213,En Revisión Calidad,15-08-24,APR-003,
+LOG-00995,SOL-0213,En Aprobación,22-08-24,APR-002,Aprobado sin observaciones
+LOG-00996,SOL-0213,Cerrada,17-08-24,APR-004,
+LOG-00997,SOL-0214,Recibida,01-05-24,APR-001,
+LOG-00998,SOL-0214,En Validación,04-05-24,APR-003,
+LOG-00999,SOL-0214,En Revisión Calidad,05-05-24,APR-003,Aprobado sin observaciones
+LOG-01000,SOL-0214,En Aprobación,10-05-24,APR-001,Pendiente documentación
+LOG-01001,SOL-0214,Cerrada,13-05-24,APR-002,
+LOG-01002,SOL-0215,Recibida,01-11-24,APR-001,Observación menor
+LOG-01003,SOL-0215,En Validación,04-11-24,APR-003,Pendiente documentación
+LOG-01004,SOL-0215,En Revisión Calidad,03-11-24,APR-002,Observación menor
+LOG-01005,SOL-0215,En Aprobación,04-11-24,APR-003,
+LOG-01006,SOL-0215,Cerrada,13-11-24,APR-004,Aprobado sin observaciones
+LOG-01007,SOL-0216,Recibida,01-12-24,APR-002,Pendiente documentación
+LOG-01008,SOL-0216,En Validación,02-12-24,APR-002,
+LOG-01009,SOL-0216,En Revisión Calidad,03-12-24,APR-002,
+LOG-01010,SOL-0216,En Aprobación,07-12-24,APR-004,
+LOG-01011,SOL-0216,Cerrada,13-12-24,APR-001,Pendiente documentación
+LOG-01012,SOL-0217,Recibida,11-07-24,APR-003,Aprobado sin observaciones
+LOG-01013,SOL-0217,En Validación,12-07-24,APR-003,Observación menor
+LOG-01014,SOL-0217,En Revisión Calidad,15-07-24,APR-004,Aprobado sin observaciones
+LOG-01015,SOL-0217,En Aprobación,14-07-24,APR-003,
+LOG-01016,SOL-0218,Recibida,22-08-24,APR-004,Aprobado sin observaciones
+LOG-01017,SOL-0218,En Validación,24-08-24,APR-003,
+LOG-01018,SOL-0218,En Revisión Calidad,28-08-24,APR-001,Aprobado sin observaciones
+LOG-01019,SOL-0218,En Aprobación,31-08-24,APR-001,Aprobado sin observaciones
+LOG-01020,SOL-0218,Cerrada,03-09-24,APR-002,
+LOG-01021,SOL-0219,Recibida,07-10-24,APR-004,
+LOG-01022,SOL-0219,En Validación,10-10-24,APR-003,Aprobado sin observaciones
+LOG-01023,SOL-0219,En Revisión Calidad,09-10-24,APR-002,Pendiente documentación
+LOG-01024,SOL-0219,En Aprobación,13-10-24,APR-001,Pendiente documentación
+LOG-01025,SOL-0219,Cerrada,15-10-24,APR-003,
+LOG-01026,SOL-0220,Recibida,21-03-24,APR-003,
+LOG-01027,SOL-0220,En Validación,22-03-24,APR-004,Aprobado sin observaciones
+LOG-01028,SOL-0220,En Revisión Calidad,25-03-24,APR-004,
+LOG-01029,SOL-0220,En Aprobación,27-03-24,APR-001,Pendiente documentación
+LOG-01030,SOL-0221,Recibida,08-05-24,APR-004,
+LOG-01031,SOL-0221,En Validación,11-05-24,APR-004,
+LOG-01032,SOL-0221,En Revisión Calidad,10-05-24,APR-003,Observación menor
+LOG-01033,SOL-0221,En Aprobación,11-05-24,APR-003,Pendiente documentación
+LOG-01034,SOL-0221,Cerrada,20-05-24,APR-003,Pendiente documentación
+LOG-01035,SOL-0222,Recibida,19-04-24,APR-001,
+LOG-01036,SOL-0222,En Validación,22-04-24,APR-002,Aprobado sin observaciones
+LOG-01037,SOL-0222,En Revisión Calidad,23-04-24,APR-002,
+LOG-01038,SOL-0222,En Aprobación,25-04-24,APR-002,Aprobado sin observaciones
+LOG-01039,SOL-0223,Recibida,21-12-24,APR-003,Observación menor
+LOG-01040,SOL-0223,En Validación,22-12-24,APR-001,
+LOG-01041,SOL-0223,En Revisión Calidad,23-12-24,APR-002,Observación menor
+LOG-01042,SOL-0223,En Aprobación,30-12-24,APR-004,
+LOG-01043,SOL-0224,Recibida,09-03-24,APR-004,Aprobado sin observaciones
+LOG-01044,SOL-0224,En Validación,10-03-24,APR-003,
+LOG-01045,SOL-0224,En Revisión Calidad,15-03-24,APR-003,
+LOG-01046,SOL-0224,En Aprobación,12-03-24,APR-001,Pendiente documentación
+LOG-01047,SOL-0224,Cerrada,17-03-24,APR-002,Pendiente documentación
+LOG-01048,SOL-0225,Recibida,11-11-24,APR-002,
+LOG-01049,SOL-0225,En Validación,12-11-24,APR-002,
+LOG-01050,SOL-0225,En Revisión Calidad,15-11-24,APR-002,
+LOG-01051,SOL-0225,En Aprobación,20-11-24,APR-002,
+LOG-01052,SOL-0226,Recibida,06-05-24,APR-004,Observación menor
+LOG-01053,SOL-0226,En Validación,08-05-24,APR-002,
+LOG-01054,SOL-0226,En Revisión Calidad,10-05-24,APR-002,Observación menor
+LOG-01055,SOL-0226,En Aprobación,09-05-24,APR-001,Aprobado sin observaciones
+LOG-01056,SOL-0226,Cerrada,18-05-24,APR-004,Pendiente documentación
+LOG-01057,SOL-0227,Recibida,31-05-24,APR-004,
+LOG-01058,SOL-0227,En Validación,01-06-24,APR-002,
+LOG-01059,SOL-0227,En Revisión Calidad,04-06-24,APR-003,Aprobado sin observaciones
+LOG-01060,SOL-0227,En Aprobación,06-06-24,APR-004,
+LOG-01061,SOL-0228,Recibida,03-07-24,APR-002,Observación menor
+LOG-01062,SOL-0228,En Validación,04-07-24,APR-003,Aprobado sin observaciones
+LOG-01063,SOL-0228,En Revisión Calidad,09-07-24,APR-002,Pendiente documentación
+LOG-01064,SOL-0228,En Aprobación,06-07-24,APR-004,
+LOG-01065,SOL-0229,Recibida,14-05-24,APR-003,
+LOG-01066,SOL-0229,En Validación,15-05-24,APR-004,
+LOG-01067,SOL-0229,En Revisión Calidad,18-05-24,APR-004,
+LOG-01068,SOL-0229,En Aprobación,17-05-24,APR-004,
+LOG-01069,SOL-0229,Cerrada,22-05-24,APR-004,Aprobado sin observaciones
+LOG-01070,SOL-0230,Recibida,22-05-24,APR-004,Aprobado sin observaciones
+LOG-01071,SOL-0230,En Validación,24-05-24,APR-003,
+LOG-01072,SOL-0230,En Revisión Calidad,24-05-24,APR-001,
+LOG-01073,SOL-0230,En Aprobación,28-05-24,APR-002,Pendiente documentación
+LOG-01074,SOL-0231,Recibida,23-12-24,APR-001,
+LOG-01075,SOL-0231,En Validación,25-12-24,APR-004,
+LOG-01076,SOL-0231,En Revisión Calidad,27-12-24,APR-003,
+LOG-01077,SOL-0231,En Aprobación,01-01-25,APR-001,Observación menor
+LOG-01078,SOL-0231,Cerrada,27-12-24,APR-003,
+LOG-01079,SOL-0232,Recibida,07-01-24,APR-004,
+LOG-01080,SOL-0232,En Validación,09-01-24,APR-002,
+LOG-01081,SOL-0232,En Revisión Calidad,11-01-24,APR-004,
+LOG-01082,SOL-0232,En Aprobación,13-01-24,APR-001,
+LOG-01083,SOL-0232,Cerrada,11-01-24,APR-002,Pendiente documentación
+LOG-01084,SOL-0233,Recibida,01-03-24,APR-003,Pendiente documentación
+LOG-01085,SOL-0233,En Validación,03-03-24,APR-003,Observación menor
+LOG-01086,SOL-0233,En Revisión Calidad,05-03-24,APR-003,Pendiente documentación
+LOG-01087,SOL-0233,En Aprobación,04-03-24,APR-003,Aprobado sin observaciones
+LOG-01088,SOL-0233,Cerrada,09-03-24,APR-002,Observación menor
+LOG-01089,SOL-0234,Recibida,12-09-24,APR-004,
+LOG-01090,SOL-0234,En Validación,13-09-24,APR-002,
+LOG-01091,SOL-0234,En Revisión Calidad,14-09-24,APR-002,
+LOG-01092,SOL-0234,En Aprobación,18-09-24,APR-003,
+LOG-01093,SOL-0234,Cerrada,24-09-24,APR-004,Pendiente documentación
+LOG-01094,SOL-0235,Recibida,29-08-24,APR-004,
+LOG-01095,SOL-0235,En Validación,31-08-24,APR-003,Aprobado sin observaciones
+LOG-01096,SOL-0235,En Revisión Calidad,04-09-24,APR-004,Pendiente documentación
+LOG-01097,SOL-0235,En Aprobación,04-09-24,APR-001,Aprobado sin observaciones
+LOG-01098,SOL-0235,Cerrada,02-09-24,APR-001,
+LOG-01099,SOL-0236,Recibida,09-02-24,APR-002,
+LOG-01100,SOL-0236,En Validación,10-02-24,APR-002,Aprobado sin observaciones
+LOG-01101,SOL-0236,En Revisión Calidad,15-02-24,APR-003,Observación menor
+LOG-01102,SOL-0236,En Aprobación,18-02-24,APR-002,Observación menor
+LOG-01103,SOL-0236,Cerrada,13-02-24,APR-002,Pendiente documentación
+LOG-01104,SOL-0237,Recibida,16-06-24,APR-002,Pendiente documentación
+LOG-01105,SOL-0237,En Validación,19-06-24,APR-001,
+LOG-01106,SOL-0237,En Revisión Calidad,18-06-24,APR-003,Aprobado sin observaciones
+LOG-01107,SOL-0237,En Aprobación,25-06-24,APR-001,Pendiente documentación
+LOG-01108,SOL-0237,Cerrada,24-06-24,APR-001,
+LOG-01109,SOL-0238,Recibida,06-10-24,APR-001,
+LOG-01110,SOL-0238,En Validación,08-10-24,APR-004,Pendiente documentación
+LOG-01111,SOL-0238,En Revisión Calidad,12-10-24,APR-003,Observación menor
+LOG-01112,SOL-0238,En Aprobación,15-10-24,APR-001,
+LOG-01113,SOL-0238,Cerrada,10-10-24,APR-004,
+LOG-01114,SOL-0239,Recibida,23-02-24,APR-002,
+LOG-01115,SOL-0239,En Validación,24-02-24,APR-003,
+LOG-01116,SOL-0239,En Revisión Calidad,25-02-24,APR-001,Observación menor
+LOG-01117,SOL-0239,En Aprobación,03-03-24,APR-004,
+LOG-01118,SOL-0239,Cerrada,02-03-24,APR-003,
+LOG-01119,SOL-0240,Recibida,13-02-24,APR-004,
+LOG-01120,SOL-0240,En Validación,14-02-24,APR-002,
+LOG-01121,SOL-0240,En Revisión Calidad,17-02-24,APR-004,
+LOG-01122,SOL-0240,En Aprobación,22-02-24,APR-002,
+LOG-01123,SOL-0241,Recibida,29-05-24,APR-004,Pendiente documentación
+LOG-01124,SOL-0241,En Validación,01-06-24,APR-003,Aprobado sin observaciones
+LOG-01125,SOL-0241,En Revisión Calidad,04-06-24,APR-002,
+LOG-01126,SOL-0241,En Aprobación,07-06-24,APR-001,
+LOG-01127,SOL-0241,Cerrada,10-06-24,APR-002,Pendiente documentación
+LOG-01128,SOL-0242,Recibida,24-02-24,APR-004,Pendiente documentación
+LOG-01129,SOL-0242,En Validación,26-02-24,APR-004,
+LOG-01130,SOL-0242,En Revisión Calidad,28-02-24,APR-003,Observación menor
+LOG-01131,SOL-0242,En Aprobación,27-02-24,APR-004,Aprobado sin observaciones
+LOG-01132,SOL-0242,Cerrada,03-03-24,APR-001,
+LOG-01133,SOL-0243,Recibida,21-03-24,APR-003,Pendiente documentación
+LOG-01134,SOL-0243,En Validación,24-03-24,APR-002,Aprobado sin observaciones
+LOG-01135,SOL-0243,En Revisión Calidad,27-03-24,APR-002,Pendiente documentación
+LOG-01136,SOL-0243,En Aprobación,30-03-24,APR-001,
+LOG-01137,SOL-0243,Cerrada,29-03-24,APR-004,
+LOG-01138,SOL-0244,Recibida,19-09-24,APR-003,
+LOG-01139,SOL-0244,En Validación,20-09-24,APR-003,
+LOG-01140,SOL-0244,En Revisión Calidad,25-09-24,APR-004,
+LOG-01141,SOL-0244,En Aprobación,28-09-24,APR-001,Observación menor
+LOG-01142,SOL-0245,Recibida,03-03-24,APR-001,Observación menor
+LOG-01143,SOL-0245,En Validación,04-03-24,APR-004,Pendiente documentación
+LOG-01144,SOL-0245,En Revisión Calidad,05-03-24,APR-004,Aprobado sin observaciones
+LOG-01145,SOL-0245,En Aprobación,12-03-24,APR-003,
+LOG-01146,SOL-0245,Cerrada,11-03-24,APR-001,Observación menor
+LOG-01147,SOL-0246,Recibida,12-01-24,APR-001,Aprobado sin observaciones
+LOG-01148,SOL-0246,En Validación,15-01-24,APR-004,
+LOG-01149,SOL-0246,En Revisión Calidad,14-01-24,APR-004,
+LOG-01150,SOL-0246,En Aprobación,15-01-24,APR-004,Aprobado sin observaciones
+LOG-01151,SOL-0247,Recibida,20-10-24,APR-003,Observación menor
+LOG-01152,SOL-0247,En Validación,23-10-24,APR-004,Aprobado sin observaciones
+LOG-01153,SOL-0247,En Revisión Calidad,24-10-24,APR-003,
+LOG-01154,SOL-0247,En Aprobación,23-10-24,APR-002,
+LOG-01155,SOL-0247,Cerrada,24-10-24,APR-003,Aprobado sin observaciones
+LOG-01156,SOL-0248,Recibida,10-11-24,APR-004,Observación menor
+LOG-01157,SOL-0248,En Validación,11-11-24,APR-001,Pendiente documentación
+LOG-01158,SOL-0248,En Revisión Calidad,12-11-24,APR-001,
+LOG-01159,SOL-0248,En Aprobación,19-11-24,APR-004,Pendiente documentación
+LOG-01160,SOL-0248,Cerrada,22-11-24,APR-004,Aprobado sin observaciones
+LOG-01161,SOL-0249,Recibida,12-04-24,APR-004,
+LOG-01162,SOL-0249,En Validación,15-04-24,APR-003,Aprobado sin observaciones
+LOG-01163,SOL-0249,En Revisión Calidad,18-04-24,APR-004,
+LOG-01164,SOL-0249,En Aprobación,15-04-24,APR-002,
+LOG-01165,SOL-0249,Cerrada,16-04-24,APR-002,
+LOG-01166,SOL-0250,Recibida,18-05-24,APR-002,
+LOG-01167,SOL-0250,En Validación,19-05-24,APR-004,Aprobado sin observaciones
+LOG-01168,SOL-0250,En Revisión Calidad,20-05-24,APR-002,Pendiente documentación
+LOG-01169,SOL-0250,En Aprobación,27-05-24,APR-002,
+LOG-01170,SOL-0250,Cerrada,26-05-24,APR-004,
+LOG-01171,SOL-0251,Recibida,21-02-24,APR-004,
+LOG-01172,SOL-0251,En Validación,22-02-24,APR-002,
+LOG-01173,SOL-0251,En Revisión Calidad,27-02-24,APR-004,Pendiente documentación
+LOG-01174,SOL-0251,En Aprobación,27-02-24,APR-001,Pendiente documentación
+LOG-01175,SOL-0252,Recibida,30-10-24,APR-002,
+LOG-01176,SOL-0252,En Validación,01-11-24,APR-004,
+LOG-01177,SOL-0252,En Revisión Calidad,03-11-24,APR-001,
+LOG-01178,SOL-0252,En Aprobación,08-11-24,APR-004,Pendiente documentación
+LOG-01179,SOL-0252,Cerrada,07-11-24,APR-003,
+LOG-01180,SOL-0253,Recibida,08-09-24,APR-004,Pendiente documentación
+LOG-01181,SOL-0253,En Validación,11-09-24,APR-004,
+LOG-01182,SOL-0253,En Revisión Calidad,14-09-24,APR-001,Observación menor
+LOG-01183,SOL-0253,En Aprobación,11-09-24,APR-004,Observación menor
+LOG-01184,SOL-0253,Cerrada,16-09-24,APR-001,
+LOG-01185,SOL-0254,Recibida,31-03-24,APR-004,Pendiente documentación
+LOG-01186,SOL-0254,En Validación,01-04-24,APR-004,Observación menor
+LOG-01187,SOL-0254,En Revisión Calidad,06-04-24,APR-003,Pendiente documentación
+LOG-01188,SOL-0254,En Aprobación,09-04-24,APR-004,
+LOG-01189,SOL-0255,Recibida,21-06-24,APR-003,Aprobado sin observaciones
+LOG-01190,SOL-0255,En Validación,22-06-24,APR-004,
+LOG-01191,SOL-0255,En Revisión Calidad,25-06-24,APR-002,Observación menor
+LOG-01192,SOL-0255,En Aprobación,24-06-24,APR-003,Observación menor
+LOG-01193,SOL-0255,Cerrada,03-07-24,APR-004,
+LOG-01194,SOL-0256,Recibida,06-12-24,APR-004,Pendiente documentación
+LOG-01195,SOL-0256,En Validación,09-12-24,APR-003,Pendiente documentación
+LOG-01196,SOL-0256,En Revisión Calidad,08-12-24,APR-002,
+LOG-01197,SOL-0256,En Aprobación,15-12-24,APR-001,Aprobado sin observaciones
+LOG-01198,SOL-0256,Cerrada,14-12-24,APR-002,
+LOG-01199,SOL-0257,Recibida,09-11-24,APR-002,Observación menor
+LOG-01200,SOL-0257,En Validación,11-11-24,APR-001,Pendiente documentación
+LOG-01201,SOL-0257,En Revisión Calidad,13-11-24,APR-003,
+LOG-01202,SOL-0257,En Aprobación,12-11-24,APR-001,
+LOG-01203,SOL-0258,Recibida,16-08-24,APR-003,
+LOG-01204,SOL-0258,En Validación,19-08-24,APR-002,
+LOG-01205,SOL-0258,En Revisión Calidad,22-08-24,APR-001,
+LOG-01206,SOL-0258,En Aprobación,22-08-24,APR-004,
+LOG-01207,SOL-0258,Cerrada,28-08-24,APR-002,
+LOG-01208,SOL-0259,Recibida,30-07-24,APR-002,Pendiente documentación
+LOG-01209,SOL-0259,En Validación,01-08-24,APR-003,
+LOG-01210,SOL-0259,En Revisión Calidad,01-08-24,APR-003,
+LOG-01211,SOL-0259,En Aprobación,08-08-24,APR-001,Aprobado sin observaciones
+LOG-01212,SOL-0259,Cerrada,03-08-24,APR-004,Pendiente documentación
+LOG-01213,SOL-0260,Recibida,11-01-24,APR-001,Observación menor
+LOG-01214,SOL-0260,En Validación,14-01-24,APR-001,Observación menor
+LOG-01215,SOL-0260,En Revisión Calidad,13-01-24,APR-001,
+LOG-01216,SOL-0260,En Aprobación,20-01-24,APR-001,
+LOG-01217,SOL-0260,Cerrada,19-01-24,APR-002,Aprobado sin observaciones
+LOG-01218,SOL-0261,Recibida,26-12-24,APR-004,Observación menor
+LOG-01219,SOL-0261,En Validación,28-12-24,APR-001,
+LOG-01220,SOL-0261,En Revisión Calidad,01-01-25,APR-003,
+LOG-01221,SOL-0261,En Aprobación,29-12-24,APR-001,
+LOG-01222,SOL-0262,Recibida,28-07-24,APR-004,
+LOG-01223,SOL-0262,En Validación,29-07-24,APR-004,
+LOG-01224,SOL-0262,En Revisión Calidad,01-08-24,APR-002,
+LOG-01225,SOL-0262,En Aprobación,03-08-24,APR-003,Aprobado sin observaciones
+LOG-01226,SOL-0262,Cerrada,05-08-24,APR-003,Aprobado sin observaciones
+LOG-01227,SOL-0263,Recibida,06-08-24,APR-002,
+LOG-01228,SOL-0263,En Validación,09-08-24,APR-004,
+LOG-01229,SOL-0263,En Revisión Calidad,08-08-24,APR-004,Pendiente documentación
+LOG-01230,SOL-0263,En Aprobación,12-08-24,APR-004,Observación menor
+LOG-01231,SOL-0263,Cerrada,18-08-24,APR-003,
+LOG-01232,SOL-0264,Recibida,29-02-24,APR-002,
+LOG-01233,SOL-0264,En Validación,03-03-24,APR-001,
+LOG-01234,SOL-0264,En Revisión Calidad,04-03-24,APR-003,Pendiente documentación
+LOG-01235,SOL-0264,En Aprobación,03-03-24,APR-004,
+LOG-01236,SOL-0265,Recibida,16-08-24,APR-001,Aprobado sin observaciones
+LOG-01237,SOL-0265,En Validación,19-08-24,APR-002,Observación menor
+LOG-01238,SOL-0265,En Revisión Calidad,18-08-24,APR-003,Pendiente documentación
+LOG-01239,SOL-0265,En Aprobación,22-08-24,APR-003,Aprobado sin observaciones
+LOG-01240,SOL-0265,Cerrada,28-08-24,APR-003,
+LOG-01241,SOL-0266,Recibida,08-12-24,APR-003,Observación menor
+LOG-01242,SOL-0266,En Validación,11-12-24,APR-002,Aprobado sin observaciones
+LOG-01243,SOL-0266,En Revisión Calidad,12-12-24,APR-004,Aprobado sin observaciones
+LOG-01244,SOL-0266,En Aprobación,11-12-24,APR-004,Aprobado sin observaciones
+LOG-01245,SOL-0267,Recibida,31-08-24,APR-004,
+LOG-01246,SOL-0267,En Validación,02-09-24,APR-001,
+LOG-01247,SOL-0267,En Revisión Calidad,06-09-24,APR-003,Pendiente documentación
+LOG-01248,SOL-0267,En Aprobación,09-09-24,APR-002,Observación menor
+LOG-01249,SOL-0268,Recibida,18-04-24,APR-003,
+LOG-01250,SOL-0268,En Validación,19-04-24,APR-003,Observación menor
+LOG-01251,SOL-0268,En Revisión Calidad,22-04-24,APR-002,
+LOG-01252,SOL-0268,En Aprobación,21-04-24,APR-003,
+LOG-01253,SOL-0268,Cerrada,26-04-24,APR-004,Observación menor
+LOG-01254,SOL-0269,Recibida,14-02-24,APR-001,
+LOG-01255,SOL-0269,En Validación,16-02-24,APR-003,
+LOG-01256,SOL-0269,En Revisión Calidad,16-02-24,APR-001,Pendiente documentación
+LOG-01257,SOL-0269,En Aprobación,20-02-24,APR-001,Pendiente documentación
+LOG-01258,SOL-0270,Recibida,17-10-24,APR-002,Aprobado sin observaciones
+LOG-01259,SOL-0270,En Validación,20-10-24,APR-002,
+LOG-01260,SOL-0270,En Revisión Calidad,21-10-24,APR-003,Aprobado sin observaciones
+LOG-01261,SOL-0270,En Aprobación,26-10-24,APR-002,Aprobado sin observaciones
+LOG-01262,SOL-0270,Cerrada,25-10-24,APR-002,
+LOG-01263,SOL-0271,Recibida,20-01-24,APR-002,
+LOG-01264,SOL-0271,En Validación,22-01-24,APR-001,
+LOG-01265,SOL-0271,En Revisión Calidad,26-01-24,APR-004,Pendiente documentación
+LOG-01266,SOL-0271,En Aprobación,23-01-24,APR-001,
+LOG-01267,SOL-0271,Cerrada,28-01-24,APR-002,Pendiente documentación
+LOG-01268,SOL-0272,Recibida,11-01-24,APR-004,
+LOG-01269,SOL-0272,En Validación,13-01-24,APR-004,Observación menor
+LOG-01270,SOL-0272,En Revisión Calidad,17-01-24,APR-004,
+LOG-01271,SOL-0272,En Aprobación,20-01-24,APR-004,Aprobado sin observaciones
+LOG-01272,SOL-0273,Recibida,17-05-24,APR-004,Aprobado sin observaciones
+LOG-01273,SOL-0273,En Validación,19-05-24,APR-004,
+LOG-01274,SOL-0273,En Revisión Calidad,19-05-24,APR-002,Pendiente documentación
+LOG-01275,SOL-0273,En Aprobación,26-05-24,APR-004,
+LOG-01276,SOL-0273,Cerrada,29-05-24,APR-001,Aprobado sin observaciones
+LOG-01277,SOL-0274,Recibida,08-06-24,APR-004,Pendiente documentación
+LOG-01278,SOL-0274,En Validación,09-06-24,APR-002,Observación menor
+LOG-01279,SOL-0274,En Revisión Calidad,12-06-24,APR-001,Observación menor
+LOG-01280,SOL-0274,En Aprobación,14-06-24,APR-001,
+LOG-01281,SOL-0274,Cerrada,16-06-24,APR-003,
+LOG-01282,SOL-0275,Recibida,26-12-24,APR-002,
+LOG-01283,SOL-0275,En Validación,28-12-24,APR-003,
+LOG-01284,SOL-0275,En Revisión Calidad,30-12-24,APR-003,Pendiente documentación
+LOG-01285,SOL-0275,En Aprobación,29-12-24,APR-002,
+LOG-01286,SOL-0275,Cerrada,07-01-25,APR-004,
+LOG-01287,SOL-0276,Recibida,30-08-24,APR-003,
+LOG-01288,SOL-0276,En Validación,31-08-24,APR-004,
+LOG-01289,SOL-0276,En Revisión Calidad,01-09-24,APR-003,
+LOG-01290,SOL-0276,En Aprobación,02-09-24,APR-004,Pendiente documentación
+LOG-01291,SOL-0276,Cerrada,11-09-24,APR-003,Observación menor
+LOG-01292,SOL-0277,Recibida,12-12-24,APR-003,Pendiente documentación
+LOG-01293,SOL-0277,En Validación,14-12-24,APR-002,
+LOG-01294,SOL-0277,En Revisión Calidad,18-12-24,APR-004,Pendiente documentación
+LOG-01295,SOL-0277,En Aprobación,21-12-24,APR-004,
+LOG-01296,SOL-0278,Recibida,09-05-24,APR-003,
+LOG-01297,SOL-0278,En Validación,12-05-24,APR-004,Pendiente documentación
+LOG-01298,SOL-0278,En Revisión Calidad,11-05-24,APR-004,
+LOG-01299,SOL-0278,En Aprobación,18-05-24,APR-001,Aprobado sin observaciones
+LOG-01300,SOL-0279,Recibida,03-06-24,APR-003,Aprobado sin observaciones
+LOG-01301,SOL-0279,En Validación,04-06-24,APR-002,Aprobado sin observaciones
+LOG-01302,SOL-0279,En Revisión Calidad,05-06-24,APR-003,Observación menor
+LOG-01303,SOL-0279,En Aprobación,12-06-24,APR-001,Aprobado sin observaciones
+LOG-01304,SOL-0279,Cerrada,15-06-24,APR-001,
+LOG-01305,SOL-0280,Recibida,02-02-24,APR-001,Observación menor
+LOG-01306,SOL-0280,En Validación,05-02-24,APR-002,Pendiente documentación
+LOG-01307,SOL-0280,En Revisión Calidad,08-02-24,APR-001,
+LOG-01308,SOL-0280,En Aprobación,11-02-24,APR-002,
+LOG-01309,SOL-0280,Cerrada,10-02-24,APR-002,
+LOG-01310,SOL-0281,Recibida,04-12-24,APR-004,
+LOG-01311,SOL-0281,En Validación,07-12-24,APR-003,Pendiente documentación
+LOG-01312,SOL-0281,En Revisión Calidad,10-12-24,APR-001,Pendiente documentación
+LOG-01313,SOL-0281,En Aprobación,07-12-24,APR-003,Pendiente documentación
+LOG-01314,SOL-0282,Recibida,24-06-24,APR-004,
+LOG-01315,SOL-0282,En Validación,27-06-24,APR-003,Pendiente documentación
+LOG-01316,SOL-0282,En Revisión Calidad,28-06-24,APR-001,
+LOG-01317,SOL-0282,En Aprobación,27-06-24,APR-002,
+LOG-01318,SOL-0282,Cerrada,28-06-24,APR-002,
+LOG-01319,SOL-0283,Recibida,19-02-24,APR-002,
+LOG-01320,SOL-0283,En Validación,21-02-24,APR-002,
+LOG-01321,SOL-0283,En Revisión Calidad,25-02-24,APR-003,
+LOG-01322,SOL-0283,En Aprobación,22-02-24,APR-001,
+LOG-01323,SOL-0283,Cerrada,27-02-24,APR-001,
+LOG-01324,SOL-0284,Recibida,18-06-24,APR-004,
+LOG-01325,SOL-0284,En Validación,20-06-24,APR-004,
+LOG-01326,SOL-0284,En Revisión Calidad,20-06-24,APR-002,
+LOG-01327,SOL-0284,En Aprobación,27-06-24,APR-002,Pendiente documentación
+LOG-01328,SOL-0284,Cerrada,30-06-24,APR-004,
+LOG-01329,SOL-0285,Recibida,28-09-24,APR-001,
+LOG-01330,SOL-0285,En Validación,30-09-24,APR-004,
+LOG-01331,SOL-0285,En Revisión Calidad,02-10-24,APR-001,Pendiente documentación
+LOG-01332,SOL-0285,En Aprobación,07-10-24,APR-002,
+LOG-01333,SOL-0285,Cerrada,06-10-24,APR-001,
+LOG-01334,SOL-0286,Recibida,02-04-24,APR-002,
+LOG-01335,SOL-0286,En Validación,05-04-24,APR-004,Pendiente documentación
+LOG-01336,SOL-0286,En Revisión Calidad,04-04-24,APR-002,
+LOG-01337,SOL-0286,En Aprobación,08-04-24,APR-002,
+LOG-01338,SOL-0287,Recibida,07-09-24,APR-004,Observación menor
+LOG-01339,SOL-0287,En Validación,09-09-24,APR-001,
+LOG-01340,SOL-0287,En Revisión Calidad,11-09-24,APR-003,Aprobado sin observaciones
+LOG-01341,SOL-0287,En Aprobación,10-09-24,APR-001,
+LOG-01342,SOL-0287,Cerrada,15-09-24,APR-003,Observación menor
+LOG-01343,SOL-0288,Recibida,08-01-24,APR-004,
+LOG-01344,SOL-0288,En Validación,11-01-24,APR-002,Observación menor
+LOG-01345,SOL-0288,En Revisión Calidad,14-01-24,APR-003,
+LOG-01346,SOL-0288,En Aprobación,11-01-24,APR-001,
+LOG-01347,SOL-0288,Cerrada,12-01-24,APR-004,Aprobado sin observaciones
+LOG-01348,SOL-0289,Recibida,14-09-24,APR-002,Aprobado sin observaciones
+LOG-01349,SOL-0289,En Validación,17-09-24,APR-003,Pendiente documentación
+LOG-01350,SOL-0289,En Revisión Calidad,16-09-24,APR-003,Aprobado sin observaciones
+LOG-01351,SOL-0289,En Aprobación,20-09-24,APR-003,Aprobado sin observaciones
+LOG-01352,SOL-0289,Cerrada,22-09-24,APR-003,
+LOG-01353,SOL-0290,Recibida,07-09-24,APR-003,
+LOG-01354,SOL-0290,En Validación,08-09-24,APR-004,Observación menor
+LOG-01355,SOL-0290,En Revisión Calidad,11-09-24,APR-001,Aprobado sin observaciones
+LOG-01356,SOL-0290,En Aprobación,10-09-24,APR-001,Observación menor
+LOG-01357,SOL-0290,Cerrada,15-09-24,APR-001,
+LOG-01358,SOL-0291,Recibida,06-07-24,APR-002,Pendiente documentación
+LOG-01359,SOL-0291,En Validación,09-07-24,APR-004,Pendiente documentación
+LOG-01360,SOL-0291,En Revisión Calidad,12-07-24,APR-001,Aprobado sin observaciones
+LOG-01361,SOL-0291,En Aprobación,15-07-24,APR-001,Observación menor
+LOG-01362,SOL-0292,Recibida,25-01-24,APR-004,Aprobado sin observaciones
+LOG-01363,SOL-0292,En Validación,26-01-24,APR-003,Pendiente documentación
+LOG-01364,SOL-0292,En Revisión Calidad,31-01-24,APR-003,Pendiente documentación
+LOG-01365,SOL-0292,En Aprobación,28-01-24,APR-001,
+LOG-01366,SOL-0293,Recibida,03-08-24,APR-003,
+LOG-01367,SOL-0293,En Validación,05-08-24,APR-001,
+LOG-01368,SOL-0293,En Revisión Calidad,09-08-24,APR-001,
+LOG-01369,SOL-0293,En Aprobación,12-08-24,APR-003,
+LOG-01370,SOL-0293,Cerrada,07-08-24,APR-003,Aprobado sin observaciones
+LOG-01371,SOL-0294,Recibida,11-04-24,APR-002,Pendiente documentación
+LOG-01372,SOL-0294,En Validación,13-04-24,APR-001,
+LOG-01373,SOL-0294,En Revisión Calidad,15-04-24,APR-002,
+LOG-01374,SOL-0294,En Aprobación,14-04-24,APR-004,
+LOG-01375,SOL-0294,Cerrada,19-04-24,APR-004,
+LOG-01376,SOL-0295,Recibida,18-12-24,APR-002,Aprobado sin observaciones
+LOG-01377,SOL-0295,En Validación,21-12-24,APR-002,
+LOG-01378,SOL-0295,En Revisión Calidad,24-12-24,APR-002,Aprobado sin observaciones
+LOG-01379,SOL-0295,En Aprobación,21-12-24,APR-002,
+LOG-01380,SOL-0295,Cerrada,30-12-24,APR-002,Observación menor
+LOG-01381,SOL-0296,Recibida,11-05-24,APR-003,
+LOG-01382,SOL-0296,En Validación,14-05-24,APR-001,Aprobado sin observaciones
+LOG-01383,SOL-0296,En Revisión Calidad,17-05-24,APR-003,Aprobado sin observaciones
+LOG-01384,SOL-0296,En Aprobación,20-05-24,APR-004,
+LOG-01385,SOL-0296,Cerrada,19-05-24,APR-001,
+LOG-01386,SOL-0297,Recibida,29-02-24,APR-004,
+LOG-01387,SOL-0297,En Validación,01-03-24,APR-004,Pendiente documentación
+LOG-01388,SOL-0297,En Revisión Calidad,04-03-24,APR-001,Aprobado sin observaciones
+LOG-01389,SOL-0297,En Aprobación,03-03-24,APR-001,
+LOG-01390,SOL-0297,Cerrada,08-03-24,APR-004,
+LOG-01391,SOL-0298,Recibida,09-07-24,APR-004,
+LOG-01392,SOL-0298,En Validación,11-07-24,APR-001,Observación menor
+LOG-01393,SOL-0298,En Revisión Calidad,11-07-24,APR-002,Aprobado sin observaciones
+LOG-01394,SOL-0298,En Aprobación,15-07-24,APR-001,
+LOG-01395,SOL-0298,Cerrada,13-07-24,APR-002,
+LOG-01396,SOL-0299,Recibida,08-03-24,APR-001,Aprobado sin observaciones
+LOG-01397,SOL-0299,En Validación,11-03-24,APR-001,
+LOG-01398,SOL-0299,En Revisión Calidad,12-03-24,APR-004,
+LOG-01399,SOL-0299,En Aprobación,17-03-24,APR-003,
+LOG-01400,SOL-0299,Cerrada,12-03-24,APR-001,Pendiente documentación
+LOG-01401,SOL-0300,Recibida,09-11-24,APR-003,
+LOG-01402,SOL-0300,En Validación,11-11-24,APR-002,
+LOG-01403,SOL-0300,En Revisión Calidad,15-11-24,APR-004,
+LOG-01404,SOL-0300,En Aprobación,18-11-24,APR-004,Observación menor
+LOG-01405,SOL-0300,Cerrada,13-11-24,APR-001,
